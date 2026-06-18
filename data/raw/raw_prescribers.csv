@@ -1,0 +1,251 @@
+npi,first_name,last_name,specialty,state,zip_code
+1800000001,Patricia,Smith,Rheumatology,FL,39256
+1800000002,James,Brown,Endocrinology,MI,65302
+1800000003,Mary,Smith,Endocrinology,FL,40495
+1800000004,John,Miller,Gastroenterology,FL,68878
+1800000005,William,Smith,Oncology,OH,54597
+1800000006,William,Jones,Primary Care,IL,23396
+1800000007,Robert,Gonzalez,Endocrinology,IL,55082
+1800000008,William,Johnson,Dermatology,NC,26361
+1800000009,Richard,Williams,Rheumatology,MI,57400
+1800000010,Michael,Williams,Cardiology,FL,47930
+1800000011,Robert,Davis,Endocrinology,OH,46434
+1800000012,Joseph,Lopez,Oncology,IL,56566
+1800000013,Michael,Rodriguez,Endocrinology,MI,93227
+1800000014,Jennifer,Davis,Oncology,GA,59735
+1800000015,William,Davis,Neurology,NY,40021
+1800000016,Mary,Hernandez,Gastroenterology,PA,18675
+1800000017,Michael,Hernandez,Primary Care,GA,61856
+1800000018,Joseph,Jones,Rheumatology,TX,42325
+1800000019,William,Wilson,Gastroenterology,IL,38746
+1800000020,James,Thomas,Endocrinology,NY,24371
+1800000021,James,Garcia,Gastroenterology,MI,18326
+1800000022,Richard,Gonzalez,Dermatology,NC,42953
+1800000023,John,Brown,Rheumatology,IL,24621
+1800000024,Elizabeth,Wilson,Oncology,GA,10425
+1800000025,William,Garcia,Endocrinology,PA,93748
+1800000026,Michael,Jones,Neurology,TX,80697
+1800000027,John,Hernandez,Dermatology,NY,24662
+1800000028,Barbara,Martinez,Primary Care,NY,41571
+1800000029,Robert,Williams,Dermatology,CA,79822
+1800000030,James,Jones,Dermatology,NC,31643
+1800000031,William,Wilson,Primary Care,NC,36365
+1800000032,Elizabeth,Gonzalez,Neurology,GA,77839
+1800000033,Joseph,Brown,Primary Care,FL,18392
+1800000034,David,Smith,Primary Care,MI,38864
+1800000035,John,Williams,Cardiology,FL,18834
+1800000036,Mary,Hernandez,Endocrinology,NC,41195
+1800000037,William,Thomas,Primary Care,NC,27342
+1800000038,Jessica,Davis,Dermatology,OH,34957
+1800000039,Patricia,Brown,Gastroenterology,IL,65519
+1800000040,Susan,Anderson,Cardiology,CA,17944
+1800000041,Richard,Hernandez,Endocrinology,FL,35112
+1800000042,Michael,Anderson,Oncology,OH,34050
+1800000043,William,Anderson,Primary Care,CA,68082
+1800000044,Patricia,Johnson,Cardiology,CA,40982
+1800000045,Jennifer,Wilson,Dermatology,GA,38016
+1800000046,Richard,Johnson,Oncology,OH,10282
+1800000047,Richard,Rodriguez,Dermatology,PA,65444
+1800000048,Jessica,Jones,Primary Care,PA,38534
+1800000049,Mary,Johnson,Neurology,NY,16572
+1800000050,Jessica,Garcia,Cardiology,NC,20500
+1800000051,Jennifer,Williams,Endocrinology,FL,62923
+1800000052,Patricia,Davis,Cardiology,MI,20745
+1800000053,Susan,Hernandez,Rheumatology,FL,97782
+1800000054,David,Davis,Rheumatology,OH,27154
+1800000055,Elizabeth,Anderson,Neurology,CA,11220
+1800000056,Joseph,Brown,Endocrinology,NC,37938
+1800000057,William,Jones,Neurology,CA,42018
+1800000058,Barbara,Martinez,Oncology,GA,81200
+1800000059,Elizabeth,Smith,Rheumatology,CA,27601
+1800000060,William,Brown,Endocrinology,NC,30374
+1800000061,William,Martinez,Primary Care,IL,36685
+1800000062,William,Thomas,Rheumatology,NY,22097
+1800000063,Susan,Rodriguez,Cardiology,NY,53719
+1800000064,James,Rodriguez,Oncology,GA,82309
+1800000065,Susan,Smith,Endocrinology,CA,29536
+1800000066,Mary,Lopez,Oncology,OH,26704
+1800000067,Mary,Martinez,Neurology,NY,56898
+1800000068,Michael,Davis,Endocrinology,IL,83385
+1800000069,Susan,Jones,Primary Care,TX,33206
+1800000070,Susan,Smith,Oncology,IL,63964
+1800000071,Linda,Rodriguez,Oncology,CA,60140
+1800000072,Mary,Thomas,Primary Care,FL,70332
+1800000073,Barbara,Martinez,Primary Care,FL,13101
+1800000074,Michael,Gonzalez,Neurology,PA,19099
+1800000075,William,Lopez,Gastroenterology,NC,53404
+1800000076,John,Brown,Rheumatology,TX,86099
+1800000077,William,Johnson,Endocrinology,MI,66959
+1800000078,Barbara,Hernandez,Gastroenterology,MI,77033
+1800000079,Patricia,Gonzalez,Primary Care,PA,15817
+1800000080,Susan,Smith,Primary Care,IL,66531
+1800000081,Robert,Hernandez,Neurology,CA,49363
+1800000082,Elizabeth,Wilson,Neurology,OH,48752
+1800000083,James,Miller,Gastroenterology,OH,98777
+1800000084,Jennifer,Martinez,Gastroenterology,NC,10053
+1800000085,Elizabeth,Martinez,Primary Care,OH,86019
+1800000086,David,Anderson,Dermatology,GA,98555
+1800000087,Michael,Thomas,Oncology,CA,47196
+1800000088,David,Williams,Primary Care,PA,39444
+1800000089,Michael,Jones,Cardiology,NY,42092
+1800000090,Jessica,Williams,Dermatology,OH,92544
+1800000091,Michael,Gonzalez,Dermatology,OH,41979
+1800000092,James,Smith,Endocrinology,OH,38683
+1800000093,Jennifer,Anderson,Cardiology,NC,42662
+1800000094,Patricia,Anderson,Oncology,GA,97500
+1800000095,David,Anderson,Gastroenterology,NC,68446
+1800000096,Jennifer,Thomas,Dermatology,PA,42406
+1800000097,William,Thomas,Primary Care,PA,67654
+1800000098,Robert,Martinez,Primary Care,PA,54020
+1800000099,David,Williams,Oncology,TX,40311
+1800000100,Richard,Jones,Primary Care,CA,64377
+1800000101,Susan,Hernandez,Dermatology,OH,18161
+1800000102,Michael,Wilson,Gastroenterology,MI,12560
+1800000103,Richard,Thomas,Cardiology,IL,49139
+1800000104,Richard,Wilson,Primary Care,GA,38760
+1800000105,William,Wilson,Dermatology,NY,60968
+1800000106,David,Gonzalez,Oncology,GA,26728
+1800000107,John,Gonzalez,Cardiology,CA,94246
+1800000108,Susan,Jones,Dermatology,TX,16590
+1800000109,William,Gonzalez,Neurology,FL,69598
+1800000110,David,Hernandez,Gastroenterology,PA,65255
+1800000111,William,Williams,Dermatology,NY,80702
+1800000112,Mary,Lopez,Primary Care,CA,95426
+1800000113,Mary,Smith,Primary Care,FL,12671
+1800000114,James,Davis,Oncology,GA,97747
+1800000115,Patricia,Miller,Dermatology,PA,58351
+1800000116,Jennifer,Brown,Oncology,PA,24168
+1800000117,John,Martinez,Gastroenterology,OH,35995
+1800000118,Robert,Davis,Endocrinology,PA,99687
+1800000119,Patricia,Johnson,Neurology,NC,66148
+1800000120,Barbara,Williams,Neurology,NY,65057
+1800000121,Jessica,Brown,Gastroenterology,IL,93307
+1800000122,Joseph,Jones,Gastroenterology,TX,78386
+1800000123,William,Thomas,Dermatology,OH,87656
+1800000124,William,Hernandez,Primary Care,CA,46559
+1800000125,Joseph,Davis,Dermatology,MI,89997
+1800000126,Richard,Hernandez,Cardiology,GA,52600
+1800000127,Jennifer,Thomas,Primary Care,IL,43862
+1800000128,David,Rodriguez,Rheumatology,NC,11330
+1800000129,Michael,Williams,Primary Care,OH,74038
+1800000130,Linda,Thomas,Dermatology,GA,12260
+1800000131,Robert,Martinez,Primary Care,OH,41890
+1800000132,Elizabeth,Lopez,Dermatology,NC,79588
+1800000133,Barbara,Wilson,Neurology,IL,69473
+1800000134,William,Martinez,Rheumatology,FL,25814
+1800000135,Michael,Hernandez,Endocrinology,NC,34267
+1800000136,Michael,Miller,Dermatology,PA,87278
+1800000137,Elizabeth,Brown,Primary Care,PA,39816
+1800000138,Barbara,Garcia,Rheumatology,NY,80010
+1800000139,James,Rodriguez,Cardiology,NY,82529
+1800000140,Elizabeth,Jones,Dermatology,CA,11607
+1800000141,Elizabeth,Thomas,Dermatology,GA,54657
+1800000142,Jennifer,Johnson,Rheumatology,GA,24953
+1800000143,Robert,Gonzalez,Dermatology,CA,85631
+1800000144,Mary,Jones,Oncology,MI,49824
+1800000145,Robert,Davis,Endocrinology,NC,64548
+1800000146,Linda,Gonzalez,Dermatology,GA,48974
+1800000147,Susan,Martinez,Cardiology,MI,23006
+1800000148,Michael,Miller,Rheumatology,CA,30585
+1800000149,Linda,Garcia,Endocrinology,TX,10350
+1800000150,Susan,Anderson,Dermatology,PA,14278
+1800000151,Linda,Martinez,Rheumatology,GA,19329
+1800000152,Linda,Rodriguez,Primary Care,OH,25043
+1800000153,Linda,Jones,Rheumatology,TX,19359
+1800000154,Mary,Garcia,Rheumatology,MI,84607
+1800000155,Elizabeth,Anderson,Endocrinology,GA,49857
+1800000156,Richard,Rodriguez,Dermatology,GA,20543
+1800000157,Mary,Wilson,Neurology,MI,42816
+1800000158,John,Williams,Primary Care,MI,86955
+1800000159,John,Rodriguez,Cardiology,TX,71669
+1800000160,Joseph,Rodriguez,Oncology,MI,67132
+1800000161,Jessica,Williams,Dermatology,IL,63523
+1800000162,David,Hernandez,Endocrinology,TX,53228
+1800000163,Susan,Thomas,Rheumatology,OH,82102
+1800000164,Mary,Anderson,Endocrinology,IL,43082
+1800000165,David,Brown,Gastroenterology,NC,10150
+1800000166,Joseph,Wilson,Cardiology,FL,77952
+1800000167,Barbara,Thomas,Dermatology,NY,36680
+1800000168,William,Jones,Rheumatology,GA,73532
+1800000169,Patricia,Smith,Primary Care,TX,50730
+1800000170,John,Wilson,Endocrinology,FL,24871
+1800000171,Joseph,Brown,Oncology,GA,48254
+1800000172,William,Wilson,Dermatology,GA,41946
+1800000173,Joseph,Jones,Gastroenterology,FL,88561
+1800000174,James,Williams,Rheumatology,OH,54548
+1800000175,William,Smith,Rheumatology,PA,86931
+1800000176,Jessica,Jones,Dermatology,NC,73483
+1800000177,Barbara,Hernandez,Gastroenterology,GA,52176
+1800000178,Michael,Davis,Gastroenterology,FL,63841
+1800000179,Mary,Hernandez,Dermatology,OH,60604
+1800000180,James,Thomas,Cardiology,TX,75836
+1800000181,David,Brown,Dermatology,CA,78937
+1800000182,Joseph,Smith,Oncology,OH,95823
+1800000183,James,Williams,Dermatology,PA,54375
+1800000184,Richard,Williams,Neurology,NC,59808
+1800000185,David,Thomas,Cardiology,MI,18968
+1800000186,Linda,Martinez,Primary Care,CA,66881
+1800000187,Patricia,Brown,Dermatology,TX,49251
+1800000188,John,Johnson,Neurology,NY,48452
+1800000189,Barbara,Lopez,Gastroenterology,TX,42007
+1800000190,Susan,Garcia,Oncology,TX,20350
+1800000191,Richard,Davis,Dermatology,MI,28758
+1800000192,Linda,Anderson,Rheumatology,GA,43466
+1800000193,John,Anderson,Rheumatology,NC,30706
+1800000194,Robert,Anderson,Neurology,MI,49210
+1800000195,Susan,Rodriguez,Dermatology,PA,36111
+1800000196,Richard,Thomas,Endocrinology,FL,59986
+1800000197,Barbara,Martinez,Rheumatology,NY,96275
+1800000198,Richard,Rodriguez,Cardiology,MI,99889
+1800000199,Mary,Thomas,Rheumatology,FL,89569
+1800000200,Barbara,Davis,Primary Care,MI,42850
+1800000201,James,Brown,Cardiology,PA,67779
+1800000202,Mary,Lopez,Oncology,CA,48680
+1800000203,David,Wilson,Oncology,FL,27322
+1800000204,Barbara,Rodriguez,Oncology,PA,73156
+1800000205,Elizabeth,Hernandez,Endocrinology,GA,19869
+1800000206,James,Davis,Gastroenterology,NC,57942
+1800000207,Robert,Gonzalez,Cardiology,PA,80329
+1800000208,Patricia,Anderson,Neurology,PA,86619
+1800000209,Richard,Lopez,Endocrinology,FL,71797
+1800000210,John,Hernandez,Primary Care,CA,93283
+1800000211,Joseph,Martinez,Gastroenterology,CA,28320
+1800000212,Mary,Johnson,Rheumatology,GA,25220
+1800000213,Patricia,Davis,Oncology,OH,69459
+1800000214,Barbara,Wilson,Oncology,OH,95841
+1800000215,Patricia,Thomas,Gastroenterology,PA,14288
+1800000216,Barbara,Miller,Dermatology,GA,40947
+1800000217,Barbara,Brown,Neurology,NC,94518
+1800000218,Barbara,Johnson,Gastroenterology,PA,34878
+1800000219,Patricia,Anderson,Endocrinology,FL,94109
+1800000220,John,Johnson,Neurology,FL,26505
+1800000221,Michael,Williams,Primary Care,MI,38305
+1800000222,Linda,Hernandez,Oncology,MI,10371
+1800000223,William,Jones,Oncology,NC,42853
+1800000224,Jennifer,Brown,Cardiology,TX,11947
+1800000225,Barbara,Davis,Neurology,NY,32838
+1800000226,William,Johnson,Oncology,OH,78955
+1800000227,Patricia,Williams,Dermatology,GA,57453
+1800000228,Patricia,Anderson,Primary Care,MI,15683
+1800000229,Elizabeth,Anderson,Cardiology,NY,72781
+1800000230,Richard,Wilson,Endocrinology,GA,68138
+1800000231,Robert,Williams,Neurology,MI,29442
+1800000232,Robert,Jones,Rheumatology,MI,92978
+1800000233,David,Gonzalez,Rheumatology,GA,76263
+1800000234,Susan,Brown,Endocrinology,NC,38183
+1800000235,Susan,Anderson,Primary Care,OH,54424
+1800000236,Joseph,Gonzalez,Gastroenterology,CA,50966
+1800000237,Susan,Hernandez,Rheumatology,IL,30006
+1800000238,Jessica,Williams,Endocrinology,CA,22219
+1800000239,Susan,Brown,Neurology,TX,82924
+1800000240,Mary,Hernandez,Endocrinology,OH,56346
+1800000241,Susan,Johnson,Rheumatology,MI,50953
+1800000242,Barbara,Brown,Primary Care,TX,96079
+1800000243,Jessica,Davis,Endocrinology,IL,82910
+1800000244,Barbara,Brown,Rheumatology,MI,39643
+1800000245,Susan,Smith,Rheumatology,NY,33647
+1800000246,William,Martinez,Neurology,IL,10800
+1800000247,Jennifer,Jones,Gastroenterology,CA,28595
+1800000248,John,Williams,Primary Care,OH,65028
+1800000249,Joseph,Hernandez,Oncology,IL,50846
+1800000250,David,Williams,Cardiology,TX,30632

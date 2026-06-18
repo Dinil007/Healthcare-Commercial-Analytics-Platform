@@ -1,0 +1,1501 @@
+call_id,rep_id,rep_name,rep_region,npi,call_date,call_type,detailing_topic,outcome
+CALL3000000,REP004,Diana Prince,Midwest,1800000015,2025-07-23,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000001,REP005,Ethan Hunt,Northeast,1800000141,2025-11-06,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000002,REP001,Alice Carter,East,1800000017,2025-01-22,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000003,REP005,Ethan Hunt,Northeast,1800000113,2025-07-03,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000004,REP001,Alice Carter,East,1800000239,2025-05-13,In-Person,Co-pay Assistance Program,Neutral
+CALL3000005,REP001,Alice Carter,East,1800000239,2025-07-19,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000006,REP001,Alice Carter,East,1800000052,2025-01-02,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000007,REP003,Charlie Vance,South,1800000135,2025-06-28,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000008,REP001,Alice Carter,East,1800000162,2025-01-07,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000009,REP005,Ethan Hunt,Northeast,1800000144,2025-01-04,Phone Call,Clinical Trials Data,Neutral
+CALL3000010,REP005,Ethan Hunt,Northeast,1800000134,2025-12-30,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3000011,REP003,Charlie Vance,South,1800000201,2025-01-28,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000012,REP002,Bob Mendez,West,1800000129,2025-08-24,In-Person,Safety & Tolerability,Unfavorable
+CALL3000013,REP005,Ethan Hunt,Northeast,1800000154,2025-03-14,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000014,REP003,Charlie Vance,South,1800000172,2025-05-25,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000015,REP005,Ethan Hunt,Northeast,1800000232,2025-11-13,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000016,REP002,Bob Mendez,West,1800000167,2025-02-01,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000017,REP003,Charlie Vance,South,1800000034,2025-07-22,In-Person,Co-pay Assistance Program,Neutral
+CALL3000018,REP004,Diana Prince,Midwest,1800000164,2025-09-23,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000019,REP004,Diana Prince,Midwest,1800000109,2025-04-27,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000020,REP003,Charlie Vance,South,1800000029,2025-03-12,In-Person,Clinical Trials Data,Favorable
+CALL3000021,REP004,Diana Prince,Midwest,1800000159,2025-10-27,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000022,REP004,Diana Prince,Midwest,1800000063,2025-04-11,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3000023,REP004,Diana Prince,Midwest,1800000142,2025-11-19,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000024,REP003,Charlie Vance,South,1800000115,2025-01-21,In-Person,Efficacy Profile,Neutral
+CALL3000025,REP001,Alice Carter,East,1800000216,2025-12-28,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000026,REP001,Alice Carter,East,1800000218,2025-08-08,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000027,REP002,Bob Mendez,West,1800000187,2025-06-14,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000028,REP002,Bob Mendez,West,1800000068,2025-04-10,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000029,REP001,Alice Carter,East,1800000199,2025-03-30,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000030,REP003,Charlie Vance,South,1800000158,2025-03-07,In-Person,Safety & Tolerability,Unfavorable
+CALL3000031,REP004,Diana Prince,Midwest,1800000001,2025-07-14,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000032,REP004,Diana Prince,Midwest,1800000197,2025-03-10,Email Follow-up,Efficacy Profile,Favorable
+CALL3000033,REP003,Charlie Vance,South,1800000095,2025-07-25,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000034,REP001,Alice Carter,East,1800000173,2025-01-26,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000035,REP001,Alice Carter,East,1800000123,2025-01-16,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000036,REP001,Alice Carter,East,1800000141,2025-10-21,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000037,REP003,Charlie Vance,South,1800000059,2025-11-26,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000038,REP003,Charlie Vance,South,1800000094,2025-12-02,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000039,REP001,Alice Carter,East,1800000241,2025-07-05,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000040,REP004,Diana Prince,Midwest,1800000005,2025-07-28,In-Person,Efficacy Profile,High Interest
+CALL3000041,REP002,Bob Mendez,West,1800000176,2025-03-25,Virtual Video,Efficacy Profile,Favorable
+CALL3000042,REP002,Bob Mendez,West,1800000006,2025-04-27,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000043,REP004,Diana Prince,Midwest,1800000129,2025-05-25,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000044,REP005,Ethan Hunt,Northeast,1800000023,2025-07-30,In-Person,Safety & Tolerability,Neutral
+CALL3000045,REP001,Alice Carter,East,1800000054,2025-05-20,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000046,REP002,Bob Mendez,West,1800000130,2025-11-09,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000047,REP003,Charlie Vance,South,1800000035,2025-05-30,Phone Call,Efficacy Profile,High Interest
+CALL3000048,REP004,Diana Prince,Midwest,1800000135,2025-10-13,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000049,REP001,Alice Carter,East,1800000209,2025-02-03,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000050,REP004,Diana Prince,Midwest,1800000141,2025-06-27,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000051,REP003,Charlie Vance,South,1800000099,2025-07-13,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000052,REP005,Ethan Hunt,Northeast,1800000033,2025-11-12,Virtual Video,Efficacy Profile,High Interest
+CALL3000053,REP004,Diana Prince,Midwest,1800000054,2025-08-30,In-Person,Safety & Tolerability,Unfavorable
+CALL3000054,REP004,Diana Prince,Midwest,1800000204,2025-09-10,Phone Call,Clinical Trials Data,Neutral
+CALL3000055,REP002,Bob Mendez,West,1800000130,2025-12-06,Phone Call,Efficacy Profile,Unfavorable
+CALL3000056,REP005,Ethan Hunt,Northeast,1800000219,2025-03-27,Phone Call,Clinical Trials Data,High Interest
+CALL3000057,REP003,Charlie Vance,South,1800000069,2025-06-22,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000058,REP005,Ethan Hunt,Northeast,1800000063,2025-07-08,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000059,REP001,Alice Carter,East,1800000013,2025-10-25,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000060,REP001,Alice Carter,East,1800000090,2025-05-25,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000061,REP005,Ethan Hunt,Northeast,1800000152,2025-09-19,Virtual Video,Efficacy Profile,High Interest
+CALL3000062,REP005,Ethan Hunt,Northeast,1800000195,2025-08-06,In-Person,Market Access & Formulary Update,High Interest
+CALL3000063,REP004,Diana Prince,Midwest,1800000095,2025-04-23,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000064,REP003,Charlie Vance,South,1800000197,2025-07-12,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000065,REP001,Alice Carter,East,1800000221,2025-12-27,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000066,REP001,Alice Carter,East,1800000152,2025-09-21,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000067,REP003,Charlie Vance,South,1800000075,2025-09-27,Phone Call,Safety & Tolerability,Favorable
+CALL3000068,REP005,Ethan Hunt,Northeast,1800000166,2025-01-05,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000069,REP002,Bob Mendez,West,1800000065,2025-08-16,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000070,REP005,Ethan Hunt,Northeast,1800000011,2025-05-12,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000071,REP003,Charlie Vance,South,1800000162,2025-12-17,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000072,REP002,Bob Mendez,West,1800000150,2025-03-29,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000073,REP003,Charlie Vance,South,1800000149,2025-02-25,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000074,REP005,Ethan Hunt,Northeast,1800000115,2025-05-13,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000075,REP001,Alice Carter,East,1800000167,2025-09-17,Virtual Video,Efficacy Profile,High Interest
+CALL3000076,REP003,Charlie Vance,South,1800000134,2025-09-04,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000077,REP005,Ethan Hunt,Northeast,1800000187,2025-05-12,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000078,REP003,Charlie Vance,South,1800000217,2025-02-12,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000079,REP001,Alice Carter,East,1800000067,2025-02-23,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000080,REP003,Charlie Vance,South,1800000248,2025-12-10,In-Person,Efficacy Profile,Neutral
+CALL3000081,REP004,Diana Prince,Midwest,1800000106,2025-04-10,Virtual Video,Clinical Trials Data,Favorable
+CALL3000082,REP003,Charlie Vance,South,1800000109,2025-04-22,In-Person,Safety & Tolerability,Neutral
+CALL3000083,REP004,Diana Prince,Midwest,1800000139,2025-08-01,Phone Call,Safety & Tolerability,Neutral
+CALL3000084,REP004,Diana Prince,Midwest,1800000142,2025-07-16,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000085,REP002,Bob Mendez,West,1800000110,2025-01-15,Virtual Video,Safety & Tolerability,High Interest
+CALL3000086,REP001,Alice Carter,East,1800000164,2025-12-13,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000087,REP005,Ethan Hunt,Northeast,1800000110,2025-02-12,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000088,REP005,Ethan Hunt,Northeast,1800000148,2025-09-17,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000089,REP005,Ethan Hunt,Northeast,1800000174,2025-06-28,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000090,REP004,Diana Prince,Midwest,1800000132,2025-04-15,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000091,REP002,Bob Mendez,West,1800000203,2025-09-30,In-Person,Market Access & Formulary Update,Favorable
+CALL3000092,REP002,Bob Mendez,West,1800000125,2025-02-26,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000093,REP004,Diana Prince,Midwest,1800000003,2025-03-26,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000094,REP005,Ethan Hunt,Northeast,1800000006,2025-05-22,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000095,REP004,Diana Prince,Midwest,1800000202,2025-04-04,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000096,REP004,Diana Prince,Midwest,1800000237,2025-06-11,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000097,REP002,Bob Mendez,West,1800000089,2025-10-21,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000098,REP001,Alice Carter,East,1800000129,2025-07-08,In-Person,Efficacy Profile,Neutral
+CALL3000099,REP004,Diana Prince,Midwest,1800000114,2025-08-27,In-Person,Clinical Trials Data,Favorable
+CALL3000100,REP001,Alice Carter,East,1800000177,2025-06-11,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000101,REP005,Ethan Hunt,Northeast,1800000204,2025-07-25,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000102,REP004,Diana Prince,Midwest,1800000226,2025-02-26,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000103,REP001,Alice Carter,East,1800000145,2025-03-26,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000104,REP001,Alice Carter,East,1800000215,2025-03-08,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000105,REP002,Bob Mendez,West,1800000086,2025-12-05,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000106,REP003,Charlie Vance,South,1800000166,2025-06-06,In-Person,Market Access & Formulary Update,Neutral
+CALL3000107,REP005,Ethan Hunt,Northeast,1800000075,2025-03-23,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000108,REP003,Charlie Vance,South,1800000161,2025-05-09,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000109,REP004,Diana Prince,Midwest,1800000238,2025-08-28,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3000110,REP003,Charlie Vance,South,1800000059,2025-09-24,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000111,REP005,Ethan Hunt,Northeast,1800000020,2025-06-09,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000112,REP002,Bob Mendez,West,1800000173,2025-06-07,In-Person,Safety & Tolerability,Favorable
+CALL3000113,REP004,Diana Prince,Midwest,1800000053,2025-04-07,Virtual Video,Clinical Trials Data,Neutral
+CALL3000114,REP001,Alice Carter,East,1800000134,2025-02-19,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000115,REP005,Ethan Hunt,Northeast,1800000147,2025-01-31,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000116,REP003,Charlie Vance,South,1800000036,2025-08-28,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000117,REP005,Ethan Hunt,Northeast,1800000028,2025-10-20,Virtual Video,Efficacy Profile,Neutral
+CALL3000118,REP004,Diana Prince,Midwest,1800000172,2025-09-17,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000119,REP005,Ethan Hunt,Northeast,1800000212,2025-03-25,Email Follow-up,Efficacy Profile,Favorable
+CALL3000120,REP001,Alice Carter,East,1800000203,2025-06-10,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000121,REP001,Alice Carter,East,1800000010,2025-03-03,In-Person,Clinical Trials Data,Favorable
+CALL3000122,REP003,Charlie Vance,South,1800000110,2025-07-10,Virtual Video,Efficacy Profile,Favorable
+CALL3000123,REP002,Bob Mendez,West,1800000091,2025-07-27,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000124,REP002,Bob Mendez,West,1800000119,2025-08-01,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000125,REP001,Alice Carter,East,1800000109,2025-08-03,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000126,REP004,Diana Prince,Midwest,1800000226,2025-11-26,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000127,REP002,Bob Mendez,West,1800000113,2025-01-25,Email Follow-up,Efficacy Profile,High Interest
+CALL3000128,REP001,Alice Carter,East,1800000145,2025-07-11,Phone Call,Clinical Trials Data,Neutral
+CALL3000129,REP002,Bob Mendez,West,1800000233,2025-09-17,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000130,REP005,Ethan Hunt,Northeast,1800000066,2025-12-19,Virtual Video,Clinical Trials Data,High Interest
+CALL3000131,REP001,Alice Carter,East,1800000122,2025-11-28,In-Person,Market Access & Formulary Update,Neutral
+CALL3000132,REP004,Diana Prince,Midwest,1800000159,2025-02-24,In-Person,Clinical Trials Data,Unfavorable
+CALL3000133,REP001,Alice Carter,East,1800000129,2025-10-14,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3000134,REP001,Alice Carter,East,1800000093,2025-10-09,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000135,REP002,Bob Mendez,West,1800000061,2025-11-05,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000136,REP003,Charlie Vance,South,1800000015,2025-09-15,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000137,REP003,Charlie Vance,South,1800000123,2025-02-10,Phone Call,Clinical Trials Data,Favorable
+CALL3000138,REP001,Alice Carter,East,1800000003,2025-01-26,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000139,REP001,Alice Carter,East,1800000202,2025-10-20,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000140,REP003,Charlie Vance,South,1800000230,2025-08-10,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000141,REP001,Alice Carter,East,1800000050,2025-08-16,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000142,REP001,Alice Carter,East,1800000238,2025-06-04,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000143,REP001,Alice Carter,East,1800000014,2025-03-14,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000144,REP002,Bob Mendez,West,1800000121,2025-09-17,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000145,REP002,Bob Mendez,West,1800000231,2025-05-02,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000146,REP001,Alice Carter,East,1800000024,2025-03-16,Email Follow-up,Efficacy Profile,Neutral
+CALL3000147,REP004,Diana Prince,Midwest,1800000232,2025-12-28,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000148,REP004,Diana Prince,Midwest,1800000100,2025-10-29,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000149,REP002,Bob Mendez,West,1800000014,2025-02-18,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000150,REP001,Alice Carter,East,1800000065,2025-09-18,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000151,REP001,Alice Carter,East,1800000038,2025-12-27,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000152,REP001,Alice Carter,East,1800000021,2025-10-10,In-Person,Safety & Tolerability,High Interest
+CALL3000153,REP005,Ethan Hunt,Northeast,1800000101,2025-12-19,Phone Call,Safety & Tolerability,Neutral
+CALL3000154,REP005,Ethan Hunt,Northeast,1800000018,2025-04-09,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000155,REP004,Diana Prince,Midwest,1800000064,2025-09-12,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000156,REP005,Ethan Hunt,Northeast,1800000221,2025-12-25,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000157,REP005,Ethan Hunt,Northeast,1800000229,2025-03-05,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000158,REP002,Bob Mendez,West,1800000055,2025-10-18,In-Person,Clinical Trials Data,Favorable
+CALL3000159,REP002,Bob Mendez,West,1800000196,2025-03-08,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000160,REP002,Bob Mendez,West,1800000181,2025-12-25,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000161,REP001,Alice Carter,East,1800000199,2025-04-15,Email Follow-up,Efficacy Profile,Neutral
+CALL3000162,REP003,Charlie Vance,South,1800000074,2025-05-25,In-Person,Co-pay Assistance Program,Neutral
+CALL3000163,REP004,Diana Prince,Midwest,1800000083,2025-06-30,Virtual Video,Safety & Tolerability,Neutral
+CALL3000164,REP001,Alice Carter,East,1800000236,2025-04-14,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000165,REP004,Diana Prince,Midwest,1800000009,2025-03-22,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000166,REP001,Alice Carter,East,1800000072,2025-12-12,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000167,REP001,Alice Carter,East,1800000121,2025-10-10,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000168,REP004,Diana Prince,Midwest,1800000127,2025-07-02,Virtual Video,Clinical Trials Data,High Interest
+CALL3000169,REP001,Alice Carter,East,1800000071,2025-06-10,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000170,REP005,Ethan Hunt,Northeast,1800000073,2025-03-13,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000171,REP004,Diana Prince,Midwest,1800000055,2025-08-21,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000172,REP005,Ethan Hunt,Northeast,1800000224,2025-06-26,Virtual Video,Clinical Trials Data,Favorable
+CALL3000173,REP003,Charlie Vance,South,1800000080,2025-05-21,Email Follow-up,Efficacy Profile,Favorable
+CALL3000174,REP002,Bob Mendez,West,1800000097,2025-10-30,Phone Call,Efficacy Profile,Neutral
+CALL3000175,REP002,Bob Mendez,West,1800000107,2025-11-02,Virtual Video,Efficacy Profile,High Interest
+CALL3000176,REP005,Ethan Hunt,Northeast,1800000025,2025-03-15,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000177,REP002,Bob Mendez,West,1800000222,2025-06-09,In-Person,Safety & Tolerability,Unfavorable
+CALL3000178,REP004,Diana Prince,Midwest,1800000234,2025-01-09,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000179,REP005,Ethan Hunt,Northeast,1800000121,2025-01-12,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000180,REP001,Alice Carter,East,1800000053,2025-09-10,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000181,REP004,Diana Prince,Midwest,1800000214,2025-09-13,Virtual Video,Clinical Trials Data,Favorable
+CALL3000182,REP004,Diana Prince,Midwest,1800000098,2025-11-08,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000183,REP001,Alice Carter,East,1800000002,2025-06-19,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000184,REP001,Alice Carter,East,1800000076,2025-12-08,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000185,REP003,Charlie Vance,South,1800000007,2025-06-17,In-Person,Co-pay Assistance Program,High Interest
+CALL3000186,REP003,Charlie Vance,South,1800000150,2025-05-20,In-Person,Clinical Trials Data,High Interest
+CALL3000187,REP002,Bob Mendez,West,1800000240,2025-06-19,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000188,REP001,Alice Carter,East,1800000229,2025-07-17,In-Person,Efficacy Profile,Neutral
+CALL3000189,REP001,Alice Carter,East,1800000015,2025-11-03,In-Person,Clinical Trials Data,High Interest
+CALL3000190,REP005,Ethan Hunt,Northeast,1800000161,2025-07-06,Virtual Video,Clinical Trials Data,Favorable
+CALL3000191,REP005,Ethan Hunt,Northeast,1800000227,2025-02-19,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000192,REP001,Alice Carter,East,1800000143,2025-11-11,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000193,REP004,Diana Prince,Midwest,1800000094,2025-12-03,Virtual Video,Efficacy Profile,High Interest
+CALL3000194,REP003,Charlie Vance,South,1800000189,2025-05-29,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000195,REP003,Charlie Vance,South,1800000055,2025-05-05,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000196,REP002,Bob Mendez,West,1800000099,2025-08-25,In-Person,Efficacy Profile,Unfavorable
+CALL3000197,REP004,Diana Prince,Midwest,1800000065,2025-02-23,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000198,REP005,Ethan Hunt,Northeast,1800000176,2025-12-30,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000199,REP001,Alice Carter,East,1800000151,2025-12-12,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000200,REP001,Alice Carter,East,1800000176,2025-08-13,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000201,REP005,Ethan Hunt,Northeast,1800000105,2025-11-29,In-Person,Clinical Trials Data,Neutral
+CALL3000202,REP005,Ethan Hunt,Northeast,1800000065,2025-02-21,Virtual Video,Efficacy Profile,High Interest
+CALL3000203,REP005,Ethan Hunt,Northeast,1800000053,2025-03-24,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000204,REP003,Charlie Vance,South,1800000103,2025-04-02,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000205,REP004,Diana Prince,Midwest,1800000045,2025-11-12,Virtual Video,Clinical Trials Data,High Interest
+CALL3000206,REP005,Ethan Hunt,Northeast,1800000161,2025-06-06,In-Person,Efficacy Profile,Favorable
+CALL3000207,REP005,Ethan Hunt,Northeast,1800000180,2025-12-08,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000208,REP002,Bob Mendez,West,1800000185,2025-09-19,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000209,REP003,Charlie Vance,South,1800000194,2025-11-02,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000210,REP002,Bob Mendez,West,1800000020,2025-06-27,In-Person,Safety & Tolerability,Favorable
+CALL3000211,REP004,Diana Prince,Midwest,1800000081,2025-11-25,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000212,REP002,Bob Mendez,West,1800000149,2025-11-27,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000213,REP005,Ethan Hunt,Northeast,1800000051,2025-08-06,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000214,REP001,Alice Carter,East,1800000033,2025-04-24,In-Person,Co-pay Assistance Program,Favorable
+CALL3000215,REP002,Bob Mendez,West,1800000216,2025-06-17,Virtual Video,Clinical Trials Data,High Interest
+CALL3000216,REP001,Alice Carter,East,1800000018,2025-11-22,In-Person,Market Access & Formulary Update,High Interest
+CALL3000217,REP002,Bob Mendez,West,1800000235,2025-05-06,In-Person,Clinical Trials Data,Favorable
+CALL3000218,REP005,Ethan Hunt,Northeast,1800000135,2025-10-15,In-Person,Efficacy Profile,Favorable
+CALL3000219,REP002,Bob Mendez,West,1800000023,2025-03-11,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000220,REP003,Charlie Vance,South,1800000242,2025-03-07,In-Person,Efficacy Profile,High Interest
+CALL3000221,REP001,Alice Carter,East,1800000114,2025-11-24,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000222,REP001,Alice Carter,East,1800000186,2025-06-28,In-Person,Efficacy Profile,Unfavorable
+CALL3000223,REP005,Ethan Hunt,Northeast,1800000021,2025-02-04,Email Follow-up,Efficacy Profile,Neutral
+CALL3000224,REP005,Ethan Hunt,Northeast,1800000008,2025-09-19,Phone Call,Efficacy Profile,High Interest
+CALL3000225,REP001,Alice Carter,East,1800000215,2025-06-15,In-Person,Co-pay Assistance Program,High Interest
+CALL3000226,REP002,Bob Mendez,West,1800000212,2025-03-24,Phone Call,Efficacy Profile,High Interest
+CALL3000227,REP001,Alice Carter,East,1800000250,2025-03-27,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000228,REP005,Ethan Hunt,Northeast,1800000047,2025-07-22,Email Follow-up,Efficacy Profile,Favorable
+CALL3000229,REP005,Ethan Hunt,Northeast,1800000015,2025-10-29,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000230,REP001,Alice Carter,East,1800000113,2025-11-12,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000231,REP002,Bob Mendez,West,1800000127,2025-02-25,In-Person,Efficacy Profile,Neutral
+CALL3000232,REP003,Charlie Vance,South,1800000029,2025-06-05,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000233,REP005,Ethan Hunt,Northeast,1800000129,2025-03-03,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000234,REP001,Alice Carter,East,1800000011,2025-10-17,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000235,REP003,Charlie Vance,South,1800000139,2025-05-03,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000236,REP002,Bob Mendez,West,1800000120,2025-06-21,Virtual Video,Clinical Trials Data,Favorable
+CALL3000237,REP003,Charlie Vance,South,1800000237,2025-08-31,In-Person,Co-pay Assistance Program,Favorable
+CALL3000238,REP002,Bob Mendez,West,1800000175,2025-04-09,Phone Call,Clinical Trials Data,Neutral
+CALL3000239,REP001,Alice Carter,East,1800000207,2025-10-23,In-Person,Clinical Trials Data,Unfavorable
+CALL3000240,REP002,Bob Mendez,West,1800000092,2025-08-04,Virtual Video,Clinical Trials Data,Neutral
+CALL3000241,REP001,Alice Carter,East,1800000162,2025-11-20,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000242,REP005,Ethan Hunt,Northeast,1800000142,2025-02-07,In-Person,Market Access & Formulary Update,Neutral
+CALL3000243,REP003,Charlie Vance,South,1800000116,2025-09-01,In-Person,Clinical Trials Data,High Interest
+CALL3000244,REP004,Diana Prince,Midwest,1800000216,2025-08-20,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3000245,REP004,Diana Prince,Midwest,1800000233,2025-03-09,Email Follow-up,Efficacy Profile,High Interest
+CALL3000246,REP004,Diana Prince,Midwest,1800000027,2025-01-18,Phone Call,Safety & Tolerability,High Interest
+CALL3000247,REP002,Bob Mendez,West,1800000006,2025-08-31,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000248,REP005,Ethan Hunt,Northeast,1800000100,2025-09-28,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000249,REP003,Charlie Vance,South,1800000160,2025-08-28,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000250,REP005,Ethan Hunt,Northeast,1800000099,2025-03-01,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000251,REP001,Alice Carter,East,1800000211,2025-09-24,Phone Call,Safety & Tolerability,Neutral
+CALL3000252,REP004,Diana Prince,Midwest,1800000084,2025-06-11,In-Person,Clinical Trials Data,Neutral
+CALL3000253,REP005,Ethan Hunt,Northeast,1800000026,2025-05-13,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000254,REP005,Ethan Hunt,Northeast,1800000068,2025-05-24,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000255,REP004,Diana Prince,Midwest,1800000103,2025-03-31,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000256,REP003,Charlie Vance,South,1800000025,2025-10-27,In-Person,Safety & Tolerability,Unfavorable
+CALL3000257,REP002,Bob Mendez,West,1800000049,2025-05-24,Phone Call,Efficacy Profile,Neutral
+CALL3000258,REP003,Charlie Vance,South,1800000231,2025-04-03,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000259,REP004,Diana Prince,Midwest,1800000174,2025-08-21,In-Person,Safety & Tolerability,Neutral
+CALL3000260,REP005,Ethan Hunt,Northeast,1800000159,2025-11-06,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000261,REP001,Alice Carter,East,1800000015,2025-02-11,Virtual Video,Efficacy Profile,High Interest
+CALL3000262,REP002,Bob Mendez,West,1800000211,2025-12-11,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000263,REP001,Alice Carter,East,1800000206,2025-10-04,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000264,REP005,Ethan Hunt,Northeast,1800000165,2025-10-24,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000265,REP001,Alice Carter,East,1800000148,2025-01-30,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000266,REP003,Charlie Vance,South,1800000142,2025-06-02,In-Person,Efficacy Profile,Unfavorable
+CALL3000267,REP001,Alice Carter,East,1800000220,2025-08-01,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000268,REP005,Ethan Hunt,Northeast,1800000198,2025-05-20,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000269,REP001,Alice Carter,East,1800000086,2025-01-01,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000270,REP001,Alice Carter,East,1800000240,2025-04-04,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000271,REP005,Ethan Hunt,Northeast,1800000134,2025-11-02,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000272,REP005,Ethan Hunt,Northeast,1800000068,2025-01-14,Email Follow-up,Efficacy Profile,Neutral
+CALL3000273,REP001,Alice Carter,East,1800000149,2025-01-14,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000274,REP004,Diana Prince,Midwest,1800000248,2025-12-14,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000275,REP002,Bob Mendez,West,1800000049,2025-09-13,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000276,REP005,Ethan Hunt,Northeast,1800000217,2025-01-08,Phone Call,Safety & Tolerability,Favorable
+CALL3000277,REP001,Alice Carter,East,1800000030,2025-12-12,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000278,REP005,Ethan Hunt,Northeast,1800000110,2025-05-25,Email Follow-up,Efficacy Profile,Neutral
+CALL3000279,REP005,Ethan Hunt,Northeast,1800000096,2025-06-12,In-Person,Safety & Tolerability,Favorable
+CALL3000280,REP001,Alice Carter,East,1800000064,2025-08-19,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000281,REP001,Alice Carter,East,1800000219,2025-06-26,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000282,REP002,Bob Mendez,West,1800000211,2025-08-31,In-Person,Co-pay Assistance Program,High Interest
+CALL3000283,REP001,Alice Carter,East,1800000124,2025-05-12,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000284,REP004,Diana Prince,Midwest,1800000138,2025-03-16,In-Person,Efficacy Profile,Favorable
+CALL3000285,REP001,Alice Carter,East,1800000037,2025-02-25,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000286,REP002,Bob Mendez,West,1800000013,2025-09-05,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000287,REP003,Charlie Vance,South,1800000183,2025-09-10,Phone Call,Clinical Trials Data,High Interest
+CALL3000288,REP005,Ethan Hunt,Northeast,1800000111,2025-11-04,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000289,REP001,Alice Carter,East,1800000207,2025-01-14,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000290,REP002,Bob Mendez,West,1800000109,2025-06-25,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000291,REP005,Ethan Hunt,Northeast,1800000179,2025-03-17,Virtual Video,Efficacy Profile,Neutral
+CALL3000292,REP001,Alice Carter,East,1800000029,2025-01-05,In-Person,Clinical Trials Data,Unfavorable
+CALL3000293,REP002,Bob Mendez,West,1800000021,2025-04-27,Phone Call,Clinical Trials Data,High Interest
+CALL3000294,REP005,Ethan Hunt,Northeast,1800000016,2025-10-30,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000295,REP001,Alice Carter,East,1800000124,2025-07-29,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000296,REP001,Alice Carter,East,1800000135,2025-09-19,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000297,REP001,Alice Carter,East,1800000108,2025-02-04,Email Follow-up,Efficacy Profile,Favorable
+CALL3000298,REP003,Charlie Vance,South,1800000088,2025-12-19,In-Person,Clinical Trials Data,Neutral
+CALL3000299,REP005,Ethan Hunt,Northeast,1800000068,2025-10-21,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000300,REP004,Diana Prince,Midwest,1800000245,2025-10-02,Virtual Video,Clinical Trials Data,Neutral
+CALL3000301,REP001,Alice Carter,East,1800000201,2025-10-08,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000302,REP003,Charlie Vance,South,1800000054,2025-05-21,In-Person,Safety & Tolerability,Unfavorable
+CALL3000303,REP005,Ethan Hunt,Northeast,1800000086,2025-12-19,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000304,REP001,Alice Carter,East,1800000015,2025-09-19,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000305,REP004,Diana Prince,Midwest,1800000081,2025-08-12,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000306,REP004,Diana Prince,Midwest,1800000149,2025-01-01,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000307,REP005,Ethan Hunt,Northeast,1800000109,2025-09-24,Virtual Video,Safety & Tolerability,High Interest
+CALL3000308,REP001,Alice Carter,East,1800000120,2025-04-15,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000309,REP002,Bob Mendez,West,1800000114,2025-01-02,In-Person,Efficacy Profile,Favorable
+CALL3000310,REP004,Diana Prince,Midwest,1800000208,2025-11-01,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000311,REP004,Diana Prince,Midwest,1800000166,2025-03-11,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000312,REP004,Diana Prince,Midwest,1800000105,2025-02-16,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000313,REP004,Diana Prince,Midwest,1800000122,2025-11-26,Email Follow-up,Efficacy Profile,High Interest
+CALL3000314,REP002,Bob Mendez,West,1800000027,2025-01-12,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000315,REP003,Charlie Vance,South,1800000051,2025-02-10,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000316,REP001,Alice Carter,East,1800000140,2025-03-13,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000317,REP002,Bob Mendez,West,1800000222,2025-08-22,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000318,REP005,Ethan Hunt,Northeast,1800000067,2025-07-29,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000319,REP004,Diana Prince,Midwest,1800000094,2025-10-05,Phone Call,Efficacy Profile,Neutral
+CALL3000320,REP002,Bob Mendez,West,1800000163,2025-10-24,In-Person,Efficacy Profile,Favorable
+CALL3000321,REP004,Diana Prince,Midwest,1800000069,2025-10-26,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000322,REP003,Charlie Vance,South,1800000093,2025-08-01,Email Follow-up,Efficacy Profile,Favorable
+CALL3000323,REP001,Alice Carter,East,1800000180,2025-03-24,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000324,REP004,Diana Prince,Midwest,1800000111,2025-11-24,Phone Call,Efficacy Profile,Neutral
+CALL3000325,REP003,Charlie Vance,South,1800000122,2025-12-09,Virtual Video,Efficacy Profile,Favorable
+CALL3000326,REP001,Alice Carter,East,1800000179,2025-11-15,In-Person,Safety & Tolerability,Unfavorable
+CALL3000327,REP004,Diana Prince,Midwest,1800000135,2025-05-04,In-Person,Safety & Tolerability,Unfavorable
+CALL3000328,REP002,Bob Mendez,West,1800000148,2025-08-20,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000329,REP002,Bob Mendez,West,1800000199,2025-01-09,Email Follow-up,Efficacy Profile,High Interest
+CALL3000330,REP002,Bob Mendez,West,1800000243,2025-07-07,In-Person,Safety & Tolerability,Favorable
+CALL3000331,REP004,Diana Prince,Midwest,1800000106,2025-09-23,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000332,REP005,Ethan Hunt,Northeast,1800000037,2025-09-11,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000333,REP004,Diana Prince,Midwest,1800000072,2025-06-01,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000334,REP003,Charlie Vance,South,1800000085,2025-08-20,In-Person,Market Access & Formulary Update,Neutral
+CALL3000335,REP003,Charlie Vance,South,1800000070,2025-10-17,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000336,REP004,Diana Prince,Midwest,1800000041,2025-08-22,Email Follow-up,Efficacy Profile,Neutral
+CALL3000337,REP001,Alice Carter,East,1800000236,2025-03-31,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000338,REP001,Alice Carter,East,1800000125,2025-02-16,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000339,REP003,Charlie Vance,South,1800000070,2025-06-08,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000340,REP005,Ethan Hunt,Northeast,1800000097,2025-04-20,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000341,REP001,Alice Carter,East,1800000232,2025-01-06,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000342,REP003,Charlie Vance,South,1800000248,2025-06-14,Phone Call,Clinical Trials Data,High Interest
+CALL3000343,REP002,Bob Mendez,West,1800000013,2025-01-19,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000344,REP004,Diana Prince,Midwest,1800000143,2025-01-22,In-Person,Clinical Trials Data,Unfavorable
+CALL3000345,REP002,Bob Mendez,West,1800000070,2025-03-14,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000346,REP004,Diana Prince,Midwest,1800000164,2025-08-13,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000347,REP002,Bob Mendez,West,1800000033,2025-11-16,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000348,REP005,Ethan Hunt,Northeast,1800000123,2025-12-26,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000349,REP001,Alice Carter,East,1800000093,2025-09-15,Phone Call,Efficacy Profile,Unfavorable
+CALL3000350,REP003,Charlie Vance,South,1800000132,2025-04-04,Phone Call,Clinical Trials Data,Neutral
+CALL3000351,REP001,Alice Carter,East,1800000018,2025-09-28,In-Person,Safety & Tolerability,Neutral
+CALL3000352,REP004,Diana Prince,Midwest,1800000116,2025-01-24,In-Person,Clinical Trials Data,High Interest
+CALL3000353,REP004,Diana Prince,Midwest,1800000155,2025-04-20,Phone Call,Clinical Trials Data,Favorable
+CALL3000354,REP005,Ethan Hunt,Northeast,1800000019,2025-01-16,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000355,REP001,Alice Carter,East,1800000239,2025-12-17,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000356,REP005,Ethan Hunt,Northeast,1800000096,2025-01-19,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000357,REP001,Alice Carter,East,1800000103,2025-05-08,Phone Call,Efficacy Profile,Neutral
+CALL3000358,REP003,Charlie Vance,South,1800000100,2025-05-27,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000359,REP001,Alice Carter,East,1800000122,2025-06-27,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000360,REP001,Alice Carter,East,1800000019,2025-08-21,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000361,REP003,Charlie Vance,South,1800000152,2025-12-07,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000362,REP005,Ethan Hunt,Northeast,1800000030,2025-05-28,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000363,REP004,Diana Prince,Midwest,1800000007,2025-02-08,Phone Call,Safety & Tolerability,Favorable
+CALL3000364,REP005,Ethan Hunt,Northeast,1800000127,2025-11-02,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000365,REP005,Ethan Hunt,Northeast,1800000044,2025-11-01,In-Person,Safety & Tolerability,Favorable
+CALL3000366,REP005,Ethan Hunt,Northeast,1800000173,2025-03-05,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000367,REP003,Charlie Vance,South,1800000229,2025-12-01,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000368,REP003,Charlie Vance,South,1800000058,2025-03-15,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000369,REP003,Charlie Vance,South,1800000055,2025-03-27,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000370,REP001,Alice Carter,East,1800000246,2025-11-20,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000371,REP004,Diana Prince,Midwest,1800000248,2025-03-12,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000372,REP003,Charlie Vance,South,1800000210,2025-09-04,Virtual Video,Safety & Tolerability,Favorable
+CALL3000373,REP004,Diana Prince,Midwest,1800000074,2025-09-03,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000374,REP002,Bob Mendez,West,1800000057,2025-06-06,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000375,REP001,Alice Carter,East,1800000198,2025-12-18,Virtual Video,Safety & Tolerability,Favorable
+CALL3000376,REP002,Bob Mendez,West,1800000169,2025-08-17,Phone Call,Clinical Trials Data,High Interest
+CALL3000377,REP004,Diana Prince,Midwest,1800000167,2025-07-01,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000378,REP001,Alice Carter,East,1800000210,2025-08-22,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000379,REP005,Ethan Hunt,Northeast,1800000206,2025-12-23,In-Person,Market Access & Formulary Update,High Interest
+CALL3000380,REP005,Ethan Hunt,Northeast,1800000182,2025-03-15,Phone Call,Safety & Tolerability,Neutral
+CALL3000381,REP001,Alice Carter,East,1800000208,2025-03-29,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000382,REP005,Ethan Hunt,Northeast,1800000127,2025-07-09,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000383,REP005,Ethan Hunt,Northeast,1800000059,2025-03-18,In-Person,Market Access & Formulary Update,Favorable
+CALL3000384,REP005,Ethan Hunt,Northeast,1800000126,2025-05-15,In-Person,Efficacy Profile,Unfavorable
+CALL3000385,REP002,Bob Mendez,West,1800000157,2025-04-29,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000386,REP005,Ethan Hunt,Northeast,1800000095,2025-02-12,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000387,REP003,Charlie Vance,South,1800000198,2025-11-01,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000388,REP003,Charlie Vance,South,1800000037,2025-11-04,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000389,REP002,Bob Mendez,West,1800000110,2025-10-15,Virtual Video,Safety & Tolerability,Favorable
+CALL3000390,REP002,Bob Mendez,West,1800000250,2025-05-10,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000391,REP003,Charlie Vance,South,1800000096,2025-12-20,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000392,REP005,Ethan Hunt,Northeast,1800000088,2025-02-17,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000393,REP001,Alice Carter,East,1800000028,2025-07-19,Phone Call,Safety & Tolerability,High Interest
+CALL3000394,REP002,Bob Mendez,West,1800000221,2025-08-04,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000395,REP005,Ethan Hunt,Northeast,1800000097,2025-08-16,Phone Call,Clinical Trials Data,High Interest
+CALL3000396,REP003,Charlie Vance,South,1800000123,2025-02-24,Email Follow-up,Efficacy Profile,Neutral
+CALL3000397,REP005,Ethan Hunt,Northeast,1800000166,2025-02-14,Virtual Video,Safety & Tolerability,Favorable
+CALL3000398,REP002,Bob Mendez,West,1800000094,2025-07-22,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000399,REP001,Alice Carter,East,1800000032,2025-04-16,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000400,REP001,Alice Carter,East,1800000195,2025-01-29,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000401,REP001,Alice Carter,East,1800000230,2025-04-30,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000402,REP001,Alice Carter,East,1800000240,2025-12-05,Virtual Video,Safety & Tolerability,High Interest
+CALL3000403,REP001,Alice Carter,East,1800000250,2025-08-22,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000404,REP002,Bob Mendez,West,1800000162,2025-08-09,In-Person,Clinical Trials Data,Unfavorable
+CALL3000405,REP004,Diana Prince,Midwest,1800000162,2025-10-12,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000406,REP001,Alice Carter,East,1800000193,2025-09-04,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000407,REP004,Diana Prince,Midwest,1800000207,2025-05-26,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000408,REP005,Ethan Hunt,Northeast,1800000131,2025-08-20,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000409,REP001,Alice Carter,East,1800000148,2025-03-28,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000410,REP001,Alice Carter,East,1800000249,2025-01-10,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000411,REP003,Charlie Vance,South,1800000149,2025-11-29,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000412,REP003,Charlie Vance,South,1800000004,2025-10-19,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000413,REP003,Charlie Vance,South,1800000049,2025-03-07,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000414,REP005,Ethan Hunt,Northeast,1800000191,2025-07-22,Virtual Video,Safety & Tolerability,High Interest
+CALL3000415,REP001,Alice Carter,East,1800000217,2025-05-05,In-Person,Clinical Trials Data,Neutral
+CALL3000416,REP002,Bob Mendez,West,1800000052,2025-03-29,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000417,REP005,Ethan Hunt,Northeast,1800000019,2025-02-20,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000418,REP001,Alice Carter,East,1800000019,2025-06-23,In-Person,Clinical Trials Data,Neutral
+CALL3000419,REP003,Charlie Vance,South,1800000237,2025-07-31,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000420,REP002,Bob Mendez,West,1800000160,2025-08-01,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000421,REP005,Ethan Hunt,Northeast,1800000039,2025-08-10,In-Person,Efficacy Profile,Unfavorable
+CALL3000422,REP001,Alice Carter,East,1800000001,2025-05-25,Email Follow-up,Efficacy Profile,Favorable
+CALL3000423,REP002,Bob Mendez,West,1800000042,2025-08-02,In-Person,Efficacy Profile,Unfavorable
+CALL3000424,REP005,Ethan Hunt,Northeast,1800000198,2025-09-30,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000425,REP001,Alice Carter,East,1800000052,2025-12-22,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000426,REP002,Bob Mendez,West,1800000031,2025-01-11,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000427,REP005,Ethan Hunt,Northeast,1800000136,2025-11-27,Virtual Video,Efficacy Profile,Favorable
+CALL3000428,REP005,Ethan Hunt,Northeast,1800000181,2025-01-05,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000429,REP005,Ethan Hunt,Northeast,1800000225,2025-03-16,Virtual Video,Clinical Trials Data,High Interest
+CALL3000430,REP004,Diana Prince,Midwest,1800000009,2025-02-13,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000431,REP002,Bob Mendez,West,1800000192,2025-10-14,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000432,REP001,Alice Carter,East,1800000033,2025-11-24,In-Person,Efficacy Profile,High Interest
+CALL3000433,REP003,Charlie Vance,South,1800000194,2025-02-20,In-Person,Clinical Trials Data,High Interest
+CALL3000434,REP005,Ethan Hunt,Northeast,1800000126,2025-09-21,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000435,REP001,Alice Carter,East,1800000073,2025-12-12,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000436,REP004,Diana Prince,Midwest,1800000173,2025-08-23,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000437,REP001,Alice Carter,East,1800000249,2025-01-17,In-Person,Market Access & Formulary Update,Neutral
+CALL3000438,REP003,Charlie Vance,South,1800000052,2025-02-09,Phone Call,Safety & Tolerability,Favorable
+CALL3000439,REP002,Bob Mendez,West,1800000099,2025-06-17,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000440,REP001,Alice Carter,East,1800000067,2025-09-04,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000441,REP004,Diana Prince,Midwest,1800000242,2025-07-13,Virtual Video,Safety & Tolerability,Favorable
+CALL3000442,REP002,Bob Mendez,West,1800000250,2025-08-23,Phone Call,Efficacy Profile,Unfavorable
+CALL3000443,REP003,Charlie Vance,South,1800000233,2025-06-08,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000444,REP001,Alice Carter,East,1800000127,2025-12-07,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000445,REP004,Diana Prince,Midwest,1800000003,2025-02-07,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000446,REP005,Ethan Hunt,Northeast,1800000122,2025-12-31,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000447,REP004,Diana Prince,Midwest,1800000052,2025-08-27,Virtual Video,Safety & Tolerability,Neutral
+CALL3000448,REP004,Diana Prince,Midwest,1800000096,2025-10-07,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000449,REP004,Diana Prince,Midwest,1800000054,2025-11-04,In-Person,Clinical Trials Data,High Interest
+CALL3000450,REP001,Alice Carter,East,1800000211,2025-04-19,In-Person,Efficacy Profile,Favorable
+CALL3000451,REP005,Ethan Hunt,Northeast,1800000083,2025-08-15,Virtual Video,Safety & Tolerability,Favorable
+CALL3000452,REP002,Bob Mendez,West,1800000174,2025-06-22,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000453,REP003,Charlie Vance,South,1800000222,2025-03-14,Virtual Video,Safety & Tolerability,Neutral
+CALL3000454,REP002,Bob Mendez,West,1800000037,2025-08-02,Phone Call,Efficacy Profile,High Interest
+CALL3000455,REP001,Alice Carter,East,1800000067,2025-11-22,Phone Call,Safety & Tolerability,Favorable
+CALL3000456,REP001,Alice Carter,East,1800000093,2025-07-15,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000457,REP004,Diana Prince,Midwest,1800000108,2025-01-07,Email Follow-up,Efficacy Profile,Favorable
+CALL3000458,REP003,Charlie Vance,South,1800000032,2025-09-06,Phone Call,Safety & Tolerability,Neutral
+CALL3000459,REP002,Bob Mendez,West,1800000032,2025-01-15,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000460,REP005,Ethan Hunt,Northeast,1800000214,2025-09-20,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000461,REP002,Bob Mendez,West,1800000181,2025-02-21,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000462,REP003,Charlie Vance,South,1800000100,2025-08-10,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000463,REP005,Ethan Hunt,Northeast,1800000122,2025-05-30,Phone Call,Efficacy Profile,High Interest
+CALL3000464,REP004,Diana Prince,Midwest,1800000212,2025-08-06,Email Follow-up,Efficacy Profile,Favorable
+CALL3000465,REP003,Charlie Vance,South,1800000126,2025-12-17,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000466,REP005,Ethan Hunt,Northeast,1800000117,2025-07-13,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000467,REP005,Ethan Hunt,Northeast,1800000041,2025-08-10,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000468,REP002,Bob Mendez,West,1800000141,2025-03-23,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000469,REP004,Diana Prince,Midwest,1800000158,2025-05-23,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000470,REP003,Charlie Vance,South,1800000120,2025-07-14,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000471,REP004,Diana Prince,Midwest,1800000172,2025-10-13,Virtual Video,Efficacy Profile,High Interest
+CALL3000472,REP001,Alice Carter,East,1800000050,2025-09-09,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000473,REP003,Charlie Vance,South,1800000238,2025-03-23,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000474,REP002,Bob Mendez,West,1800000173,2025-05-16,Virtual Video,Efficacy Profile,Neutral
+CALL3000475,REP004,Diana Prince,Midwest,1800000192,2025-07-07,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000476,REP001,Alice Carter,East,1800000168,2025-09-10,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000477,REP002,Bob Mendez,West,1800000097,2025-09-11,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000478,REP002,Bob Mendez,West,1800000228,2025-01-23,In-Person,Safety & Tolerability,High Interest
+CALL3000479,REP002,Bob Mendez,West,1800000010,2025-05-18,Virtual Video,Safety & Tolerability,High Interest
+CALL3000480,REP004,Diana Prince,Midwest,1800000119,2025-10-17,In-Person,Efficacy Profile,High Interest
+CALL3000481,REP002,Bob Mendez,West,1800000234,2025-02-15,Phone Call,Safety & Tolerability,Favorable
+CALL3000482,REP002,Bob Mendez,West,1800000129,2025-10-06,Phone Call,Efficacy Profile,Unfavorable
+CALL3000483,REP005,Ethan Hunt,Northeast,1800000087,2025-07-09,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000484,REP002,Bob Mendez,West,1800000125,2025-03-04,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000485,REP002,Bob Mendez,West,1800000019,2025-11-02,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000486,REP005,Ethan Hunt,Northeast,1800000014,2025-08-10,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000487,REP003,Charlie Vance,South,1800000181,2025-08-10,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000488,REP004,Diana Prince,Midwest,1800000083,2025-02-02,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000489,REP002,Bob Mendez,West,1800000103,2025-06-13,Phone Call,Clinical Trials Data,Favorable
+CALL3000490,REP004,Diana Prince,Midwest,1800000010,2025-05-20,Virtual Video,Efficacy Profile,Neutral
+CALL3000491,REP001,Alice Carter,East,1800000094,2025-03-15,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000492,REP004,Diana Prince,Midwest,1800000242,2025-09-28,Email Follow-up,Efficacy Profile,High Interest
+CALL3000493,REP001,Alice Carter,East,1800000146,2025-09-29,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000494,REP001,Alice Carter,East,1800000105,2025-11-23,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000495,REP004,Diana Prince,Midwest,1800000062,2025-12-09,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000496,REP002,Bob Mendez,West,1800000050,2025-06-15,Phone Call,Safety & Tolerability,Favorable
+CALL3000497,REP004,Diana Prince,Midwest,1800000012,2025-07-21,Virtual Video,Efficacy Profile,Favorable
+CALL3000498,REP004,Diana Prince,Midwest,1800000106,2025-01-29,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000499,REP001,Alice Carter,East,1800000115,2025-05-07,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3000500,REP004,Diana Prince,Midwest,1800000212,2025-10-02,In-Person,Safety & Tolerability,High Interest
+CALL3000501,REP004,Diana Prince,Midwest,1800000214,2025-11-08,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000502,REP004,Diana Prince,Midwest,1800000183,2025-11-07,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000503,REP004,Diana Prince,Midwest,1800000006,2025-01-23,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000504,REP002,Bob Mendez,West,1800000190,2025-02-03,Phone Call,Market Access & Formulary Update,Favorable
+CALL3000505,REP003,Charlie Vance,South,1800000069,2025-11-10,In-Person,Clinical Trials Data,High Interest
+CALL3000506,REP003,Charlie Vance,South,1800000159,2025-01-23,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000507,REP005,Ethan Hunt,Northeast,1800000179,2025-10-15,Virtual Video,Clinical Trials Data,Favorable
+CALL3000508,REP002,Bob Mendez,West,1800000242,2025-06-16,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000509,REP003,Charlie Vance,South,1800000226,2025-02-24,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000510,REP005,Ethan Hunt,Northeast,1800000163,2025-11-10,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000511,REP001,Alice Carter,East,1800000060,2025-08-01,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000512,REP005,Ethan Hunt,Northeast,1800000166,2025-02-15,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000513,REP005,Ethan Hunt,Northeast,1800000056,2025-03-05,Virtual Video,Safety & Tolerability,Favorable
+CALL3000514,REP004,Diana Prince,Midwest,1800000052,2025-05-30,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000515,REP001,Alice Carter,East,1800000069,2025-12-07,Virtual Video,Safety & Tolerability,Favorable
+CALL3000516,REP004,Diana Prince,Midwest,1800000066,2025-05-23,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000517,REP001,Alice Carter,East,1800000104,2025-06-04,Phone Call,Clinical Trials Data,High Interest
+CALL3000518,REP003,Charlie Vance,South,1800000225,2025-03-22,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000519,REP003,Charlie Vance,South,1800000250,2025-11-10,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000520,REP004,Diana Prince,Midwest,1800000078,2025-11-30,In-Person,Clinical Trials Data,Unfavorable
+CALL3000521,REP003,Charlie Vance,South,1800000147,2025-02-18,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000522,REP004,Diana Prince,Midwest,1800000005,2025-12-09,In-Person,Safety & Tolerability,Neutral
+CALL3000523,REP004,Diana Prince,Midwest,1800000220,2025-02-01,Email Follow-up,Efficacy Profile,Favorable
+CALL3000524,REP005,Ethan Hunt,Northeast,1800000136,2025-03-26,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000525,REP005,Ethan Hunt,Northeast,1800000229,2025-12-25,Email Follow-up,Efficacy Profile,Neutral
+CALL3000526,REP004,Diana Prince,Midwest,1800000014,2025-07-29,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3000527,REP004,Diana Prince,Midwest,1800000209,2025-06-18,In-Person,Efficacy Profile,High Interest
+CALL3000528,REP002,Bob Mendez,West,1800000216,2025-02-27,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000529,REP004,Diana Prince,Midwest,1800000078,2025-11-27,Email Follow-up,Efficacy Profile,Neutral
+CALL3000530,REP005,Ethan Hunt,Northeast,1800000105,2025-12-06,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000531,REP003,Charlie Vance,South,1800000102,2025-02-05,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000532,REP004,Diana Prince,Midwest,1800000035,2025-06-20,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000533,REP001,Alice Carter,East,1800000037,2025-07-10,In-Person,Clinical Trials Data,Favorable
+CALL3000534,REP005,Ethan Hunt,Northeast,1800000186,2025-11-19,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000535,REP001,Alice Carter,East,1800000202,2025-05-21,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000536,REP003,Charlie Vance,South,1800000128,2025-05-27,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000537,REP005,Ethan Hunt,Northeast,1800000089,2025-03-04,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000538,REP001,Alice Carter,East,1800000156,2025-05-21,In-Person,Co-pay Assistance Program,Neutral
+CALL3000539,REP004,Diana Prince,Midwest,1800000060,2025-06-22,In-Person,Efficacy Profile,Favorable
+CALL3000540,REP004,Diana Prince,Midwest,1800000245,2025-03-12,In-Person,Clinical Trials Data,High Interest
+CALL3000541,REP003,Charlie Vance,South,1800000032,2025-02-24,Virtual Video,Efficacy Profile,Favorable
+CALL3000542,REP005,Ethan Hunt,Northeast,1800000011,2025-06-27,Phone Call,Efficacy Profile,Unfavorable
+CALL3000543,REP002,Bob Mendez,West,1800000245,2025-07-20,Virtual Video,Clinical Trials Data,Favorable
+CALL3000544,REP001,Alice Carter,East,1800000199,2025-04-24,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000545,REP004,Diana Prince,Midwest,1800000008,2025-08-27,In-Person,Market Access & Formulary Update,Favorable
+CALL3000546,REP005,Ethan Hunt,Northeast,1800000087,2025-03-07,In-Person,Market Access & Formulary Update,Favorable
+CALL3000547,REP005,Ethan Hunt,Northeast,1800000245,2025-06-25,Virtual Video,Safety & Tolerability,Favorable
+CALL3000548,REP005,Ethan Hunt,Northeast,1800000056,2025-03-04,In-Person,Co-pay Assistance Program,Favorable
+CALL3000549,REP002,Bob Mendez,West,1800000021,2025-02-10,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000550,REP005,Ethan Hunt,Northeast,1800000178,2025-08-20,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000551,REP005,Ethan Hunt,Northeast,1800000197,2025-10-01,Virtual Video,Efficacy Profile,Favorable
+CALL3000552,REP001,Alice Carter,East,1800000097,2025-12-05,In-Person,Co-pay Assistance Program,Favorable
+CALL3000553,REP005,Ethan Hunt,Northeast,1800000088,2025-06-08,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000554,REP003,Charlie Vance,South,1800000089,2025-11-26,In-Person,Safety & Tolerability,Unfavorable
+CALL3000555,REP005,Ethan Hunt,Northeast,1800000054,2025-10-02,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000556,REP003,Charlie Vance,South,1800000052,2025-02-09,In-Person,Clinical Trials Data,Neutral
+CALL3000557,REP005,Ethan Hunt,Northeast,1800000230,2025-02-11,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000558,REP004,Diana Prince,Midwest,1800000214,2025-05-24,Virtual Video,Clinical Trials Data,Favorable
+CALL3000559,REP001,Alice Carter,East,1800000225,2025-01-04,Virtual Video,Efficacy Profile,High Interest
+CALL3000560,REP005,Ethan Hunt,Northeast,1800000144,2025-09-06,In-Person,Clinical Trials Data,Unfavorable
+CALL3000561,REP005,Ethan Hunt,Northeast,1800000051,2025-03-17,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000562,REP001,Alice Carter,East,1800000030,2025-07-13,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000563,REP001,Alice Carter,East,1800000199,2025-08-01,In-Person,Clinical Trials Data,Favorable
+CALL3000564,REP002,Bob Mendez,West,1800000235,2025-09-23,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000565,REP003,Charlie Vance,South,1800000161,2025-11-27,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000566,REP002,Bob Mendez,West,1800000019,2025-09-15,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000567,REP003,Charlie Vance,South,1800000165,2025-01-29,Phone Call,Clinical Trials Data,Neutral
+CALL3000568,REP003,Charlie Vance,South,1800000060,2025-05-24,In-Person,Efficacy Profile,Favorable
+CALL3000569,REP004,Diana Prince,Midwest,1800000175,2025-09-10,In-Person,Clinical Trials Data,High Interest
+CALL3000570,REP004,Diana Prince,Midwest,1800000035,2025-08-23,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000571,REP005,Ethan Hunt,Northeast,1800000219,2025-10-17,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000572,REP001,Alice Carter,East,1800000179,2025-11-18,Email Follow-up,Efficacy Profile,High Interest
+CALL3000573,REP005,Ethan Hunt,Northeast,1800000105,2025-10-30,In-Person,Co-pay Assistance Program,Favorable
+CALL3000574,REP001,Alice Carter,East,1800000130,2025-07-09,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000575,REP001,Alice Carter,East,1800000240,2025-01-13,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000576,REP002,Bob Mendez,West,1800000041,2025-10-25,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000577,REP005,Ethan Hunt,Northeast,1800000120,2025-07-25,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000578,REP001,Alice Carter,East,1800000030,2025-10-02,Phone Call,Clinical Trials Data,High Interest
+CALL3000579,REP001,Alice Carter,East,1800000024,2025-01-11,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000580,REP002,Bob Mendez,West,1800000114,2025-10-10,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000581,REP003,Charlie Vance,South,1800000172,2025-08-31,In-Person,Market Access & Formulary Update,Neutral
+CALL3000582,REP003,Charlie Vance,South,1800000124,2025-03-26,In-Person,Safety & Tolerability,Neutral
+CALL3000583,REP001,Alice Carter,East,1800000168,2025-04-28,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000584,REP004,Diana Prince,Midwest,1800000099,2025-09-12,Virtual Video,Clinical Trials Data,Favorable
+CALL3000585,REP004,Diana Prince,Midwest,1800000044,2025-06-26,In-Person,Clinical Trials Data,Favorable
+CALL3000586,REP003,Charlie Vance,South,1800000157,2025-12-22,Virtual Video,Efficacy Profile,Favorable
+CALL3000587,REP001,Alice Carter,East,1800000179,2025-07-04,In-Person,Efficacy Profile,High Interest
+CALL3000588,REP005,Ethan Hunt,Northeast,1800000154,2025-11-06,In-Person,Safety & Tolerability,Unfavorable
+CALL3000589,REP005,Ethan Hunt,Northeast,1800000135,2025-04-04,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000590,REP001,Alice Carter,East,1800000056,2025-12-17,In-Person,Efficacy Profile,High Interest
+CALL3000591,REP002,Bob Mendez,West,1800000226,2025-06-17,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000592,REP001,Alice Carter,East,1800000015,2025-10-30,In-Person,Safety & Tolerability,High Interest
+CALL3000593,REP003,Charlie Vance,South,1800000184,2025-06-24,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000594,REP005,Ethan Hunt,Northeast,1800000093,2025-11-08,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000595,REP003,Charlie Vance,South,1800000083,2025-05-08,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000596,REP005,Ethan Hunt,Northeast,1800000238,2025-02-28,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000597,REP002,Bob Mendez,West,1800000229,2025-12-14,In-Person,Efficacy Profile,Favorable
+CALL3000598,REP004,Diana Prince,Midwest,1800000060,2025-07-20,Virtual Video,Clinical Trials Data,Neutral
+CALL3000599,REP004,Diana Prince,Midwest,1800000239,2025-01-19,In-Person,Co-pay Assistance Program,High Interest
+CALL3000600,REP005,Ethan Hunt,Northeast,1800000213,2025-12-30,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000601,REP005,Ethan Hunt,Northeast,1800000058,2025-04-20,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000602,REP004,Diana Prince,Midwest,1800000017,2025-05-29,Phone Call,Clinical Trials Data,Neutral
+CALL3000603,REP003,Charlie Vance,South,1800000247,2025-07-06,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000604,REP001,Alice Carter,East,1800000016,2025-01-23,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000605,REP005,Ethan Hunt,Northeast,1800000156,2025-12-27,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000606,REP004,Diana Prince,Midwest,1800000082,2025-08-16,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000607,REP005,Ethan Hunt,Northeast,1800000247,2025-02-02,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000608,REP002,Bob Mendez,West,1800000159,2025-02-20,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000609,REP005,Ethan Hunt,Northeast,1800000210,2025-09-11,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000610,REP003,Charlie Vance,South,1800000003,2025-02-03,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000611,REP004,Diana Prince,Midwest,1800000135,2025-05-25,Virtual Video,Clinical Trials Data,Favorable
+CALL3000612,REP003,Charlie Vance,South,1800000066,2025-06-19,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000613,REP002,Bob Mendez,West,1800000071,2025-01-15,Virtual Video,Safety & Tolerability,High Interest
+CALL3000614,REP005,Ethan Hunt,Northeast,1800000189,2025-10-26,In-Person,Safety & Tolerability,Favorable
+CALL3000615,REP005,Ethan Hunt,Northeast,1800000073,2025-04-10,Email Follow-up,Efficacy Profile,Neutral
+CALL3000616,REP001,Alice Carter,East,1800000028,2025-01-25,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000617,REP003,Charlie Vance,South,1800000030,2025-06-08,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000618,REP001,Alice Carter,East,1800000225,2025-10-19,Phone Call,Efficacy Profile,High Interest
+CALL3000619,REP004,Diana Prince,Midwest,1800000212,2025-09-05,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000620,REP005,Ethan Hunt,Northeast,1800000045,2025-09-18,Virtual Video,Safety & Tolerability,Neutral
+CALL3000621,REP005,Ethan Hunt,Northeast,1800000095,2025-02-19,In-Person,Efficacy Profile,Unfavorable
+CALL3000622,REP004,Diana Prince,Midwest,1800000227,2025-12-25,Email Follow-up,Efficacy Profile,Favorable
+CALL3000623,REP003,Charlie Vance,South,1800000160,2025-02-02,In-Person,Clinical Trials Data,Unfavorable
+CALL3000624,REP005,Ethan Hunt,Northeast,1800000058,2025-06-02,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000625,REP004,Diana Prince,Midwest,1800000107,2025-03-15,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000626,REP004,Diana Prince,Midwest,1800000156,2025-04-17,In-Person,Clinical Trials Data,Favorable
+CALL3000627,REP001,Alice Carter,East,1800000240,2025-09-06,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000628,REP002,Bob Mendez,West,1800000124,2025-11-06,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000629,REP005,Ethan Hunt,Northeast,1800000167,2025-05-10,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000630,REP005,Ethan Hunt,Northeast,1800000128,2025-05-07,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000631,REP004,Diana Prince,Midwest,1800000049,2025-12-13,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000632,REP002,Bob Mendez,West,1800000025,2025-02-14,In-Person,Safety & Tolerability,Neutral
+CALL3000633,REP003,Charlie Vance,South,1800000187,2025-11-10,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000634,REP004,Diana Prince,Midwest,1800000121,2025-05-21,Phone Call,Clinical Trials Data,Neutral
+CALL3000635,REP003,Charlie Vance,South,1800000058,2025-03-03,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000636,REP001,Alice Carter,East,1800000224,2025-07-11,Email Follow-up,Efficacy Profile,Favorable
+CALL3000637,REP004,Diana Prince,Midwest,1800000129,2025-04-06,Virtual Video,Safety & Tolerability,Favorable
+CALL3000638,REP005,Ethan Hunt,Northeast,1800000182,2025-01-18,Phone Call,Clinical Trials Data,High Interest
+CALL3000639,REP005,Ethan Hunt,Northeast,1800000249,2025-05-30,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000640,REP001,Alice Carter,East,1800000121,2025-03-10,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000641,REP001,Alice Carter,East,1800000132,2025-09-02,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000642,REP005,Ethan Hunt,Northeast,1800000236,2025-01-12,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000643,REP003,Charlie Vance,South,1800000239,2025-12-24,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000644,REP001,Alice Carter,East,1800000019,2025-07-03,Virtual Video,Clinical Trials Data,Neutral
+CALL3000645,REP001,Alice Carter,East,1800000120,2025-11-21,Virtual Video,Clinical Trials Data,High Interest
+CALL3000646,REP002,Bob Mendez,West,1800000048,2025-01-19,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000647,REP002,Bob Mendez,West,1800000199,2025-03-25,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000648,REP002,Bob Mendez,West,1800000165,2025-09-17,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000649,REP005,Ethan Hunt,Northeast,1800000160,2025-02-10,In-Person,Efficacy Profile,Favorable
+CALL3000650,REP001,Alice Carter,East,1800000122,2025-04-28,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000651,REP005,Ethan Hunt,Northeast,1800000181,2025-07-27,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000652,REP004,Diana Prince,Midwest,1800000151,2025-08-09,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000653,REP004,Diana Prince,Midwest,1800000045,2025-07-25,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000654,REP003,Charlie Vance,South,1800000017,2025-08-10,Virtual Video,Clinical Trials Data,Neutral
+CALL3000655,REP005,Ethan Hunt,Northeast,1800000127,2025-01-22,In-Person,Clinical Trials Data,Favorable
+CALL3000656,REP002,Bob Mendez,West,1800000234,2025-02-26,Virtual Video,Clinical Trials Data,High Interest
+CALL3000657,REP002,Bob Mendez,West,1800000022,2025-07-01,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000658,REP001,Alice Carter,East,1800000156,2025-07-26,Virtual Video,Clinical Trials Data,Favorable
+CALL3000659,REP001,Alice Carter,East,1800000204,2025-08-08,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000660,REP005,Ethan Hunt,Northeast,1800000159,2025-03-18,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000661,REP004,Diana Prince,Midwest,1800000134,2025-08-01,In-Person,Clinical Trials Data,Unfavorable
+CALL3000662,REP003,Charlie Vance,South,1800000003,2025-06-15,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000663,REP001,Alice Carter,East,1800000033,2025-01-09,Email Follow-up,Efficacy Profile,Favorable
+CALL3000664,REP004,Diana Prince,Midwest,1800000132,2025-09-01,Virtual Video,Clinical Trials Data,High Interest
+CALL3000665,REP001,Alice Carter,East,1800000070,2025-05-17,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000666,REP003,Charlie Vance,South,1800000135,2025-11-28,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000667,REP001,Alice Carter,East,1800000249,2025-03-16,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000668,REP002,Bob Mendez,West,1800000056,2025-10-16,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000669,REP005,Ethan Hunt,Northeast,1800000055,2025-08-03,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000670,REP001,Alice Carter,East,1800000081,2025-02-04,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000671,REP001,Alice Carter,East,1800000002,2025-10-28,In-Person,Safety & Tolerability,Unfavorable
+CALL3000672,REP002,Bob Mendez,West,1800000123,2025-09-07,Phone Call,Clinical Trials Data,Neutral
+CALL3000673,REP002,Bob Mendez,West,1800000156,2025-10-18,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000674,REP004,Diana Prince,Midwest,1800000059,2025-03-22,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000675,REP004,Diana Prince,Midwest,1800000170,2025-08-01,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000676,REP001,Alice Carter,East,1800000023,2025-05-15,Virtual Video,Safety & Tolerability,Neutral
+CALL3000677,REP002,Bob Mendez,West,1800000125,2025-12-12,Phone Call,Safety & Tolerability,Neutral
+CALL3000678,REP001,Alice Carter,East,1800000237,2025-08-23,In-Person,Clinical Trials Data,Favorable
+CALL3000679,REP004,Diana Prince,Midwest,1800000103,2025-08-12,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000680,REP003,Charlie Vance,South,1800000134,2025-08-11,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000681,REP003,Charlie Vance,South,1800000249,2025-03-02,Virtual Video,Efficacy Profile,High Interest
+CALL3000682,REP004,Diana Prince,Midwest,1800000103,2025-07-21,In-Person,Safety & Tolerability,Unfavorable
+CALL3000683,REP004,Diana Prince,Midwest,1800000037,2025-11-12,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000684,REP002,Bob Mendez,West,1800000187,2025-07-01,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000685,REP005,Ethan Hunt,Northeast,1800000014,2025-02-08,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000686,REP004,Diana Prince,Midwest,1800000142,2025-02-06,In-Person,Clinical Trials Data,Neutral
+CALL3000687,REP005,Ethan Hunt,Northeast,1800000214,2025-07-06,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000688,REP002,Bob Mendez,West,1800000175,2025-03-17,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000689,REP004,Diana Prince,Midwest,1800000083,2025-01-12,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000690,REP002,Bob Mendez,West,1800000245,2025-04-05,Email Follow-up,Efficacy Profile,Favorable
+CALL3000691,REP004,Diana Prince,Midwest,1800000144,2025-05-21,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000692,REP001,Alice Carter,East,1800000097,2025-12-19,Virtual Video,Clinical Trials Data,Neutral
+CALL3000693,REP005,Ethan Hunt,Northeast,1800000192,2025-05-13,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3000694,REP001,Alice Carter,East,1800000205,2025-03-15,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000695,REP001,Alice Carter,East,1800000012,2025-06-18,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000696,REP001,Alice Carter,East,1800000106,2025-08-19,Phone Call,Efficacy Profile,Neutral
+CALL3000697,REP005,Ethan Hunt,Northeast,1800000099,2025-09-11,Phone Call,Safety & Tolerability,Neutral
+CALL3000698,REP001,Alice Carter,East,1800000163,2025-10-02,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000699,REP003,Charlie Vance,South,1800000194,2025-12-02,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000700,REP003,Charlie Vance,South,1800000126,2025-08-01,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000701,REP004,Diana Prince,Midwest,1800000161,2025-05-07,Virtual Video,Efficacy Profile,Neutral
+CALL3000702,REP005,Ethan Hunt,Northeast,1800000205,2025-03-03,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000703,REP003,Charlie Vance,South,1800000184,2025-02-01,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000704,REP003,Charlie Vance,South,1800000075,2025-06-15,In-Person,Market Access & Formulary Update,High Interest
+CALL3000705,REP004,Diana Prince,Midwest,1800000013,2025-01-26,Virtual Video,Safety & Tolerability,Favorable
+CALL3000706,REP004,Diana Prince,Midwest,1800000175,2025-06-19,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000707,REP005,Ethan Hunt,Northeast,1800000041,2025-08-04,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000708,REP002,Bob Mendez,West,1800000220,2025-05-23,In-Person,Clinical Trials Data,Unfavorable
+CALL3000709,REP001,Alice Carter,East,1800000218,2025-06-04,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000710,REP004,Diana Prince,Midwest,1800000093,2025-11-29,Email Follow-up,Efficacy Profile,Neutral
+CALL3000711,REP004,Diana Prince,Midwest,1800000157,2025-03-19,In-Person,Efficacy Profile,Unfavorable
+CALL3000712,REP002,Bob Mendez,West,1800000210,2025-12-15,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000713,REP003,Charlie Vance,South,1800000123,2025-05-21,In-Person,Safety & Tolerability,Favorable
+CALL3000714,REP005,Ethan Hunt,Northeast,1800000122,2025-08-08,Email Follow-up,Efficacy Profile,Neutral
+CALL3000715,REP003,Charlie Vance,South,1800000079,2025-08-31,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000716,REP005,Ethan Hunt,Northeast,1800000076,2025-12-04,In-Person,Safety & Tolerability,Unfavorable
+CALL3000717,REP001,Alice Carter,East,1800000066,2025-01-19,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000718,REP002,Bob Mendez,West,1800000183,2025-09-24,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000719,REP004,Diana Prince,Midwest,1800000026,2025-05-25,Virtual Video,Clinical Trials Data,High Interest
+CALL3000720,REP005,Ethan Hunt,Northeast,1800000056,2025-02-12,In-Person,Safety & Tolerability,High Interest
+CALL3000721,REP002,Bob Mendez,West,1800000086,2025-12-02,Phone Call,Safety & Tolerability,Neutral
+CALL3000722,REP002,Bob Mendez,West,1800000161,2025-03-10,Phone Call,Efficacy Profile,Favorable
+CALL3000723,REP004,Diana Prince,Midwest,1800000107,2025-07-26,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000724,REP005,Ethan Hunt,Northeast,1800000229,2025-06-17,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000725,REP005,Ethan Hunt,Northeast,1800000001,2025-12-29,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000726,REP003,Charlie Vance,South,1800000204,2025-06-05,In-Person,Efficacy Profile,High Interest
+CALL3000727,REP001,Alice Carter,East,1800000163,2025-03-09,In-Person,Efficacy Profile,Neutral
+CALL3000728,REP001,Alice Carter,East,1800000040,2025-07-12,In-Person,Co-pay Assistance Program,Neutral
+CALL3000729,REP003,Charlie Vance,South,1800000185,2025-03-19,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000730,REP003,Charlie Vance,South,1800000017,2025-01-27,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000731,REP005,Ethan Hunt,Northeast,1800000138,2025-08-30,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000732,REP005,Ethan Hunt,Northeast,1800000241,2025-09-19,In-Person,Market Access & Formulary Update,High Interest
+CALL3000733,REP003,Charlie Vance,South,1800000238,2025-11-16,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3000734,REP001,Alice Carter,East,1800000086,2025-12-27,In-Person,Market Access & Formulary Update,Neutral
+CALL3000735,REP003,Charlie Vance,South,1800000188,2025-07-16,Phone Call,Efficacy Profile,Favorable
+CALL3000736,REP004,Diana Prince,Midwest,1800000038,2025-10-14,In-Person,Efficacy Profile,Favorable
+CALL3000737,REP002,Bob Mendez,West,1800000054,2025-02-09,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000738,REP005,Ethan Hunt,Northeast,1800000104,2025-04-28,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000739,REP001,Alice Carter,East,1800000045,2025-11-08,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000740,REP005,Ethan Hunt,Northeast,1800000088,2025-10-16,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000741,REP004,Diana Prince,Midwest,1800000089,2025-09-08,In-Person,Efficacy Profile,Neutral
+CALL3000742,REP004,Diana Prince,Midwest,1800000036,2025-09-26,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000743,REP002,Bob Mendez,West,1800000160,2025-11-25,In-Person,Market Access & Formulary Update,High Interest
+CALL3000744,REP001,Alice Carter,East,1800000110,2025-01-23,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000745,REP002,Bob Mendez,West,1800000145,2025-06-17,Email Follow-up,Efficacy Profile,Favorable
+CALL3000746,REP004,Diana Prince,Midwest,1800000024,2025-06-16,In-Person,Efficacy Profile,High Interest
+CALL3000747,REP002,Bob Mendez,West,1800000127,2025-05-13,Virtual Video,Efficacy Profile,Favorable
+CALL3000748,REP001,Alice Carter,East,1800000159,2025-08-03,Email Follow-up,Efficacy Profile,High Interest
+CALL3000749,REP004,Diana Prince,Midwest,1800000120,2025-12-17,Phone Call,Clinical Trials Data,High Interest
+CALL3000750,REP003,Charlie Vance,South,1800000093,2025-06-19,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000751,REP005,Ethan Hunt,Northeast,1800000176,2025-05-26,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000752,REP004,Diana Prince,Midwest,1800000217,2025-12-27,In-Person,Co-pay Assistance Program,Neutral
+CALL3000753,REP004,Diana Prince,Midwest,1800000131,2025-07-11,In-Person,Market Access & Formulary Update,Neutral
+CALL3000754,REP001,Alice Carter,East,1800000155,2025-10-09,In-Person,Market Access & Formulary Update,Neutral
+CALL3000755,REP005,Ethan Hunt,Northeast,1800000159,2025-02-01,Phone Call,Clinical Trials Data,High Interest
+CALL3000756,REP002,Bob Mendez,West,1800000211,2025-03-07,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000757,REP003,Charlie Vance,South,1800000188,2025-02-19,In-Person,Safety & Tolerability,High Interest
+CALL3000758,REP003,Charlie Vance,South,1800000219,2025-05-08,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000759,REP001,Alice Carter,East,1800000062,2025-04-27,In-Person,Safety & Tolerability,Neutral
+CALL3000760,REP004,Diana Prince,Midwest,1800000124,2025-09-03,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000761,REP005,Ethan Hunt,Northeast,1800000168,2025-10-12,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000762,REP003,Charlie Vance,South,1800000023,2025-01-29,In-Person,Market Access & Formulary Update,High Interest
+CALL3000763,REP001,Alice Carter,East,1800000121,2025-12-02,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000764,REP004,Diana Prince,Midwest,1800000127,2025-03-29,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000765,REP003,Charlie Vance,South,1800000090,2025-03-01,Phone Call,Clinical Trials Data,High Interest
+CALL3000766,REP002,Bob Mendez,West,1800000067,2025-04-14,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000767,REP004,Diana Prince,Midwest,1800000207,2025-02-09,In-Person,Efficacy Profile,Favorable
+CALL3000768,REP003,Charlie Vance,South,1800000210,2025-09-10,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000769,REP002,Bob Mendez,West,1800000168,2025-04-23,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000770,REP002,Bob Mendez,West,1800000161,2025-09-07,Phone Call,Clinical Trials Data,Neutral
+CALL3000771,REP001,Alice Carter,East,1800000110,2025-04-17,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3000772,REP002,Bob Mendez,West,1800000145,2025-11-16,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3000773,REP002,Bob Mendez,West,1800000097,2025-10-26,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000774,REP001,Alice Carter,East,1800000207,2025-07-06,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000775,REP003,Charlie Vance,South,1800000203,2025-02-21,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000776,REP004,Diana Prince,Midwest,1800000244,2025-06-01,Virtual Video,Safety & Tolerability,High Interest
+CALL3000777,REP003,Charlie Vance,South,1800000076,2025-02-01,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000778,REP003,Charlie Vance,South,1800000026,2025-05-22,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3000779,REP002,Bob Mendez,West,1800000117,2025-03-14,Phone Call,Clinical Trials Data,Favorable
+CALL3000780,REP005,Ethan Hunt,Northeast,1800000064,2025-01-19,In-Person,Market Access & Formulary Update,Favorable
+CALL3000781,REP002,Bob Mendez,West,1800000072,2025-02-07,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000782,REP001,Alice Carter,East,1800000095,2025-06-30,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000783,REP002,Bob Mendez,West,1800000029,2025-12-29,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000784,REP001,Alice Carter,East,1800000027,2025-06-25,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000785,REP002,Bob Mendez,West,1800000210,2025-08-10,Virtual Video,Clinical Trials Data,High Interest
+CALL3000786,REP005,Ethan Hunt,Northeast,1800000151,2025-09-11,In-Person,Clinical Trials Data,Favorable
+CALL3000787,REP005,Ethan Hunt,Northeast,1800000159,2025-07-09,Phone Call,Efficacy Profile,Favorable
+CALL3000788,REP001,Alice Carter,East,1800000007,2025-05-04,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000789,REP004,Diana Prince,Midwest,1800000050,2025-06-20,Phone Call,Efficacy Profile,Favorable
+CALL3000790,REP002,Bob Mendez,West,1800000003,2025-12-10,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000791,REP004,Diana Prince,Midwest,1800000078,2025-06-10,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000792,REP001,Alice Carter,East,1800000156,2025-07-22,Phone Call,Safety & Tolerability,Favorable
+CALL3000793,REP003,Charlie Vance,South,1800000106,2025-04-17,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000794,REP001,Alice Carter,East,1800000245,2025-04-12,In-Person,Safety & Tolerability,High Interest
+CALL3000795,REP005,Ethan Hunt,Northeast,1800000021,2025-06-03,Phone Call,Safety & Tolerability,Favorable
+CALL3000796,REP005,Ethan Hunt,Northeast,1800000237,2025-02-10,Phone Call,Co-pay Assistance Program,Neutral
+CALL3000797,REP001,Alice Carter,East,1800000063,2025-03-12,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000798,REP003,Charlie Vance,South,1800000066,2025-08-10,Phone Call,Safety & Tolerability,Favorable
+CALL3000799,REP003,Charlie Vance,South,1800000095,2025-10-18,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000800,REP001,Alice Carter,East,1800000231,2025-11-16,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000801,REP003,Charlie Vance,South,1800000071,2025-02-10,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000802,REP004,Diana Prince,Midwest,1800000042,2025-11-08,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3000803,REP002,Bob Mendez,West,1800000164,2025-09-16,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000804,REP005,Ethan Hunt,Northeast,1800000030,2025-03-26,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000805,REP001,Alice Carter,East,1800000220,2025-05-18,In-Person,Efficacy Profile,Unfavorable
+CALL3000806,REP005,Ethan Hunt,Northeast,1800000150,2025-04-26,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000807,REP001,Alice Carter,East,1800000017,2025-08-29,Virtual Video,Efficacy Profile,Neutral
+CALL3000808,REP001,Alice Carter,East,1800000137,2025-05-16,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000809,REP001,Alice Carter,East,1800000016,2025-01-31,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000810,REP001,Alice Carter,East,1800000250,2025-12-10,Virtual Video,Safety & Tolerability,Favorable
+CALL3000811,REP004,Diana Prince,Midwest,1800000077,2025-10-26,Virtual Video,Safety & Tolerability,Favorable
+CALL3000812,REP004,Diana Prince,Midwest,1800000043,2025-06-02,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000813,REP002,Bob Mendez,West,1800000129,2025-10-23,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000814,REP004,Diana Prince,Midwest,1800000168,2025-05-24,Phone Call,Safety & Tolerability,Favorable
+CALL3000815,REP002,Bob Mendez,West,1800000218,2025-06-13,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000816,REP003,Charlie Vance,South,1800000199,2025-04-03,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000817,REP001,Alice Carter,East,1800000098,2025-05-28,Phone Call,Safety & Tolerability,Neutral
+CALL3000818,REP001,Alice Carter,East,1800000074,2025-07-03,Phone Call,Clinical Trials Data,Favorable
+CALL3000819,REP004,Diana Prince,Midwest,1800000011,2025-06-15,Phone Call,Safety & Tolerability,Unfavorable
+CALL3000820,REP003,Charlie Vance,South,1800000229,2025-07-01,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000821,REP003,Charlie Vance,South,1800000147,2025-10-29,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000822,REP001,Alice Carter,East,1800000057,2025-05-18,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000823,REP003,Charlie Vance,South,1800000191,2025-11-12,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000824,REP002,Bob Mendez,West,1800000181,2025-11-08,In-Person,Efficacy Profile,High Interest
+CALL3000825,REP002,Bob Mendez,West,1800000225,2025-01-28,Virtual Video,Safety & Tolerability,High Interest
+CALL3000826,REP002,Bob Mendez,West,1800000027,2025-08-07,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000827,REP002,Bob Mendez,West,1800000092,2025-02-16,Email Follow-up,Safety & Tolerability,High Interest
+CALL3000828,REP001,Alice Carter,East,1800000038,2025-11-23,Virtual Video,Safety & Tolerability,High Interest
+CALL3000829,REP002,Bob Mendez,West,1800000112,2025-06-16,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000830,REP001,Alice Carter,East,1800000015,2025-08-16,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000831,REP005,Ethan Hunt,Northeast,1800000170,2025-12-01,Email Follow-up,Efficacy Profile,High Interest
+CALL3000832,REP003,Charlie Vance,South,1800000066,2025-09-25,Phone Call,Efficacy Profile,Neutral
+CALL3000833,REP002,Bob Mendez,West,1800000224,2025-10-12,In-Person,Efficacy Profile,Unfavorable
+CALL3000834,REP004,Diana Prince,Midwest,1800000105,2025-07-30,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000835,REP003,Charlie Vance,South,1800000218,2025-04-17,Virtual Video,Clinical Trials Data,Favorable
+CALL3000836,REP002,Bob Mendez,West,1800000225,2025-05-04,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000837,REP004,Diana Prince,Midwest,1800000071,2025-08-08,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3000838,REP003,Charlie Vance,South,1800000111,2025-07-04,Virtual Video,Efficacy Profile,Neutral
+CALL3000839,REP003,Charlie Vance,South,1800000134,2025-10-13,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000840,REP002,Bob Mendez,West,1800000039,2025-07-08,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3000841,REP004,Diana Prince,Midwest,1800000048,2025-12-05,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000842,REP002,Bob Mendez,West,1800000107,2025-11-07,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000843,REP002,Bob Mendez,West,1800000237,2025-03-08,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000844,REP004,Diana Prince,Midwest,1800000107,2025-03-16,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000845,REP001,Alice Carter,East,1800000125,2025-01-06,In-Person,Safety & Tolerability,High Interest
+CALL3000846,REP001,Alice Carter,East,1800000219,2025-10-09,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000847,REP003,Charlie Vance,South,1800000240,2025-09-23,Virtual Video,Safety & Tolerability,Favorable
+CALL3000848,REP004,Diana Prince,Midwest,1800000033,2025-12-14,Phone Call,Market Access & Formulary Update,Neutral
+CALL3000849,REP005,Ethan Hunt,Northeast,1800000158,2025-04-25,In-Person,Clinical Trials Data,Unfavorable
+CALL3000850,REP003,Charlie Vance,South,1800000130,2025-08-30,Email Follow-up,Safety & Tolerability,Neutral
+CALL3000851,REP001,Alice Carter,East,1800000090,2025-04-30,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000852,REP004,Diana Prince,Midwest,1800000117,2025-01-07,Virtual Video,Clinical Trials Data,Favorable
+CALL3000853,REP004,Diana Prince,Midwest,1800000145,2025-07-27,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3000854,REP001,Alice Carter,East,1800000052,2025-07-29,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000855,REP005,Ethan Hunt,Northeast,1800000148,2025-05-09,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3000856,REP001,Alice Carter,East,1800000048,2025-04-09,Phone Call,Clinical Trials Data,Unfavorable
+CALL3000857,REP002,Bob Mendez,West,1800000246,2025-03-31,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3000858,REP005,Ethan Hunt,Northeast,1800000190,2025-08-25,In-Person,Market Access & Formulary Update,Favorable
+CALL3000859,REP003,Charlie Vance,South,1800000013,2025-08-11,Virtual Video,Clinical Trials Data,Favorable
+CALL3000860,REP005,Ethan Hunt,Northeast,1800000095,2025-12-13,Virtual Video,Clinical Trials Data,Neutral
+CALL3000861,REP003,Charlie Vance,South,1800000019,2025-05-19,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3000862,REP003,Charlie Vance,South,1800000087,2025-10-19,Phone Call,Efficacy Profile,Unfavorable
+CALL3000863,REP005,Ethan Hunt,Northeast,1800000059,2025-07-14,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000864,REP005,Ethan Hunt,Northeast,1800000236,2025-09-26,In-Person,Market Access & Formulary Update,Favorable
+CALL3000865,REP002,Bob Mendez,West,1800000006,2025-08-13,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000866,REP005,Ethan Hunt,Northeast,1800000196,2025-02-03,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000867,REP002,Bob Mendez,West,1800000209,2025-06-21,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000868,REP002,Bob Mendez,West,1800000196,2025-06-29,Phone Call,Safety & Tolerability,Neutral
+CALL3000869,REP001,Alice Carter,East,1800000231,2025-01-15,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000870,REP005,Ethan Hunt,Northeast,1800000177,2025-08-27,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000871,REP001,Alice Carter,East,1800000170,2025-03-31,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000872,REP001,Alice Carter,East,1800000245,2025-04-12,Virtual Video,Safety & Tolerability,High Interest
+CALL3000873,REP003,Charlie Vance,South,1800000224,2025-09-14,Virtual Video,Clinical Trials Data,Favorable
+CALL3000874,REP001,Alice Carter,East,1800000051,2025-12-28,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3000875,REP005,Ethan Hunt,Northeast,1800000189,2025-08-08,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000876,REP004,Diana Prince,Midwest,1800000006,2025-05-30,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000877,REP002,Bob Mendez,West,1800000189,2025-10-08,In-Person,Clinical Trials Data,Neutral
+CALL3000878,REP001,Alice Carter,East,1800000111,2025-01-21,Phone Call,Clinical Trials Data,High Interest
+CALL3000879,REP005,Ethan Hunt,Northeast,1800000206,2025-09-19,In-Person,Clinical Trials Data,Unfavorable
+CALL3000880,REP003,Charlie Vance,South,1800000019,2025-04-30,In-Person,Market Access & Formulary Update,High Interest
+CALL3000881,REP003,Charlie Vance,South,1800000042,2025-10-17,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000882,REP001,Alice Carter,East,1800000115,2025-05-10,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000883,REP002,Bob Mendez,West,1800000138,2025-07-13,Phone Call,Clinical Trials Data,High Interest
+CALL3000884,REP001,Alice Carter,East,1800000230,2025-08-22,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000885,REP004,Diana Prince,Midwest,1800000218,2025-11-04,Phone Call,Market Access & Formulary Update,High Interest
+CALL3000886,REP004,Diana Prince,Midwest,1800000109,2025-06-16,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000887,REP005,Ethan Hunt,Northeast,1800000131,2025-03-08,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3000888,REP004,Diana Prince,Midwest,1800000184,2025-03-16,Email Follow-up,Efficacy Profile,Neutral
+CALL3000889,REP005,Ethan Hunt,Northeast,1800000026,2025-05-26,In-Person,Market Access & Formulary Update,Neutral
+CALL3000890,REP004,Diana Prince,Midwest,1800000217,2025-03-07,Virtual Video,Safety & Tolerability,Favorable
+CALL3000891,REP005,Ethan Hunt,Northeast,1800000216,2025-12-12,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000892,REP004,Diana Prince,Midwest,1800000046,2025-10-25,In-Person,Efficacy Profile,Favorable
+CALL3000893,REP004,Diana Prince,Midwest,1800000036,2025-12-15,Phone Call,Clinical Trials Data,High Interest
+CALL3000894,REP005,Ethan Hunt,Northeast,1800000170,2025-05-11,In-Person,Market Access & Formulary Update,Neutral
+CALL3000895,REP001,Alice Carter,East,1800000051,2025-01-27,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000896,REP003,Charlie Vance,South,1800000038,2025-11-03,In-Person,Efficacy Profile,Favorable
+CALL3000897,REP003,Charlie Vance,South,1800000158,2025-03-28,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3000898,REP001,Alice Carter,East,1800000219,2025-10-11,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000899,REP002,Bob Mendez,West,1800000107,2025-05-04,In-Person,Safety & Tolerability,High Interest
+CALL3000900,REP004,Diana Prince,Midwest,1800000130,2025-04-30,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000901,REP003,Charlie Vance,South,1800000038,2025-11-07,Phone Call,Clinical Trials Data,High Interest
+CALL3000902,REP002,Bob Mendez,West,1800000162,2025-06-30,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000903,REP001,Alice Carter,East,1800000217,2025-12-22,Virtual Video,Safety & Tolerability,Favorable
+CALL3000904,REP001,Alice Carter,East,1800000176,2025-08-04,In-Person,Safety & Tolerability,High Interest
+CALL3000905,REP005,Ethan Hunt,Northeast,1800000183,2025-11-10,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3000906,REP002,Bob Mendez,West,1800000229,2025-12-13,In-Person,Efficacy Profile,Neutral
+CALL3000907,REP001,Alice Carter,East,1800000220,2025-03-29,In-Person,Co-pay Assistance Program,Favorable
+CALL3000908,REP001,Alice Carter,East,1800000131,2025-01-08,Phone Call,Efficacy Profile,Favorable
+CALL3000909,REP004,Diana Prince,Midwest,1800000216,2025-07-31,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3000910,REP005,Ethan Hunt,Northeast,1800000242,2025-02-21,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000911,REP002,Bob Mendez,West,1800000063,2025-03-09,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000912,REP003,Charlie Vance,South,1800000036,2025-12-05,Virtual Video,Safety & Tolerability,High Interest
+CALL3000913,REP004,Diana Prince,Midwest,1800000175,2025-09-13,In-Person,Clinical Trials Data,Favorable
+CALL3000914,REP001,Alice Carter,East,1800000187,2025-05-21,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3000915,REP003,Charlie Vance,South,1800000167,2025-08-10,Phone Call,Clinical Trials Data,High Interest
+CALL3000916,REP004,Diana Prince,Midwest,1800000109,2025-03-19,In-Person,Co-pay Assistance Program,High Interest
+CALL3000917,REP004,Diana Prince,Midwest,1800000056,2025-06-10,In-Person,Safety & Tolerability,High Interest
+CALL3000918,REP003,Charlie Vance,South,1800000048,2025-02-12,In-Person,Clinical Trials Data,High Interest
+CALL3000919,REP001,Alice Carter,East,1800000219,2025-05-15,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000920,REP003,Charlie Vance,South,1800000083,2025-06-22,Virtual Video,Efficacy Profile,High Interest
+CALL3000921,REP005,Ethan Hunt,Northeast,1800000066,2025-02-02,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3000922,REP003,Charlie Vance,South,1800000032,2025-07-12,In-Person,Market Access & Formulary Update,Neutral
+CALL3000923,REP004,Diana Prince,Midwest,1800000086,2025-05-07,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000924,REP002,Bob Mendez,West,1800000056,2025-09-19,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000925,REP002,Bob Mendez,West,1800000206,2025-04-04,Virtual Video,Safety & Tolerability,Favorable
+CALL3000926,REP004,Diana Prince,Midwest,1800000250,2025-08-14,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3000927,REP005,Ethan Hunt,Northeast,1800000146,2025-07-09,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3000928,REP003,Charlie Vance,South,1800000178,2025-02-03,Email Follow-up,Efficacy Profile,High Interest
+CALL3000929,REP002,Bob Mendez,West,1800000208,2025-12-29,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3000930,REP001,Alice Carter,East,1800000174,2025-03-22,In-Person,Co-pay Assistance Program,Neutral
+CALL3000931,REP003,Charlie Vance,South,1800000035,2025-05-16,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000932,REP004,Diana Prince,Midwest,1800000032,2025-04-15,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3000933,REP001,Alice Carter,East,1800000224,2025-10-12,In-Person,Co-pay Assistance Program,High Interest
+CALL3000934,REP001,Alice Carter,East,1800000180,2025-04-03,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3000935,REP001,Alice Carter,East,1800000013,2025-10-30,In-Person,Clinical Trials Data,High Interest
+CALL3000936,REP001,Alice Carter,East,1800000182,2025-03-12,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000937,REP004,Diana Prince,Midwest,1800000221,2025-12-27,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3000938,REP001,Alice Carter,East,1800000050,2025-05-26,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000939,REP002,Bob Mendez,West,1800000185,2025-11-01,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000940,REP002,Bob Mendez,West,1800000094,2025-07-05,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3000941,REP001,Alice Carter,East,1800000139,2025-06-24,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000942,REP001,Alice Carter,East,1800000126,2025-08-15,In-Person,Co-pay Assistance Program,Neutral
+CALL3000943,REP004,Diana Prince,Midwest,1800000075,2025-09-25,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000944,REP002,Bob Mendez,West,1800000039,2025-05-15,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3000945,REP002,Bob Mendez,West,1800000028,2025-10-01,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3000946,REP005,Ethan Hunt,Northeast,1800000157,2025-08-04,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000947,REP002,Bob Mendez,West,1800000181,2025-11-27,Virtual Video,Clinical Trials Data,Favorable
+CALL3000948,REP003,Charlie Vance,South,1800000051,2025-01-27,Virtual Video,Clinical Trials Data,Favorable
+CALL3000949,REP001,Alice Carter,East,1800000209,2025-05-25,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3000950,REP001,Alice Carter,East,1800000207,2025-06-27,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3000951,REP002,Bob Mendez,West,1800000139,2025-02-26,In-Person,Efficacy Profile,Unfavorable
+CALL3000952,REP005,Ethan Hunt,Northeast,1800000250,2025-08-16,Virtual Video,Safety & Tolerability,Favorable
+CALL3000953,REP003,Charlie Vance,South,1800000203,2025-09-02,In-Person,Co-pay Assistance Program,Favorable
+CALL3000954,REP003,Charlie Vance,South,1800000143,2025-10-27,Email Follow-up,Clinical Trials Data,Favorable
+CALL3000955,REP005,Ethan Hunt,Northeast,1800000016,2025-04-08,In-Person,Clinical Trials Data,Unfavorable
+CALL3000956,REP004,Diana Prince,Midwest,1800000200,2025-04-01,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3000957,REP003,Charlie Vance,South,1800000165,2025-10-01,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3000958,REP002,Bob Mendez,West,1800000203,2025-05-29,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000959,REP001,Alice Carter,East,1800000234,2025-12-15,Phone Call,Clinical Trials Data,Favorable
+CALL3000960,REP003,Charlie Vance,South,1800000101,2025-11-13,Email Follow-up,Clinical Trials Data,Neutral
+CALL3000961,REP005,Ethan Hunt,Northeast,1800000209,2025-11-01,Email Follow-up,Efficacy Profile,High Interest
+CALL3000962,REP003,Charlie Vance,South,1800000184,2025-12-21,Phone Call,Safety & Tolerability,Favorable
+CALL3000963,REP004,Diana Prince,Midwest,1800000011,2025-11-14,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3000964,REP004,Diana Prince,Midwest,1800000225,2025-11-30,Virtual Video,Efficacy Profile,High Interest
+CALL3000965,REP003,Charlie Vance,South,1800000178,2025-04-30,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3000966,REP005,Ethan Hunt,Northeast,1800000014,2025-10-11,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3000967,REP003,Charlie Vance,South,1800000234,2025-05-06,Virtual Video,Efficacy Profile,High Interest
+CALL3000968,REP005,Ethan Hunt,Northeast,1800000121,2025-09-08,Email Follow-up,Clinical Trials Data,High Interest
+CALL3000969,REP002,Bob Mendez,West,1800000224,2025-10-20,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000970,REP001,Alice Carter,East,1800000095,2025-04-24,In-Person,Market Access & Formulary Update,High Interest
+CALL3000971,REP002,Bob Mendez,West,1800000180,2025-09-10,In-Person,Clinical Trials Data,Favorable
+CALL3000972,REP004,Diana Prince,Midwest,1800000103,2025-04-02,In-Person,Clinical Trials Data,Favorable
+CALL3000973,REP004,Diana Prince,Midwest,1800000033,2025-05-13,Phone Call,Clinical Trials Data,High Interest
+CALL3000974,REP005,Ethan Hunt,Northeast,1800000149,2025-08-08,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000975,REP001,Alice Carter,East,1800000117,2025-02-03,Email Follow-up,Safety & Tolerability,Favorable
+CALL3000976,REP005,Ethan Hunt,Northeast,1800000040,2025-07-02,Virtual Video,Clinical Trials Data,Neutral
+CALL3000977,REP003,Charlie Vance,South,1800000086,2025-12-21,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3000978,REP004,Diana Prince,Midwest,1800000228,2025-12-07,In-Person,Efficacy Profile,Favorable
+CALL3000979,REP001,Alice Carter,East,1800000010,2025-07-03,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3000980,REP003,Charlie Vance,South,1800000240,2025-05-05,In-Person,Co-pay Assistance Program,High Interest
+CALL3000981,REP004,Diana Prince,Midwest,1800000205,2025-05-23,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000982,REP005,Ethan Hunt,Northeast,1800000118,2025-03-22,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3000983,REP003,Charlie Vance,South,1800000156,2025-04-20,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3000984,REP002,Bob Mendez,West,1800000074,2025-03-27,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3000985,REP003,Charlie Vance,South,1800000142,2025-03-08,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3000986,REP005,Ethan Hunt,Northeast,1800000004,2025-02-19,Email Follow-up,Efficacy Profile,High Interest
+CALL3000987,REP004,Diana Prince,Midwest,1800000052,2025-09-07,In-Person,Efficacy Profile,Unfavorable
+CALL3000988,REP004,Diana Prince,Midwest,1800000134,2025-10-28,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3000989,REP005,Ethan Hunt,Northeast,1800000176,2025-12-27,Phone Call,Co-pay Assistance Program,Favorable
+CALL3000990,REP003,Charlie Vance,South,1800000161,2025-06-20,Email Follow-up,Efficacy Profile,Favorable
+CALL3000991,REP005,Ethan Hunt,Northeast,1800000073,2025-01-29,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3000992,REP001,Alice Carter,East,1800000223,2025-07-08,Email Follow-up,Efficacy Profile,Neutral
+CALL3000993,REP005,Ethan Hunt,Northeast,1800000189,2025-02-17,Virtual Video,Efficacy Profile,Unfavorable
+CALL3000994,REP004,Diana Prince,Midwest,1800000057,2025-03-08,Virtual Video,Safety & Tolerability,Neutral
+CALL3000995,REP001,Alice Carter,East,1800000146,2025-06-18,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3000996,REP002,Bob Mendez,West,1800000049,2025-05-07,Phone Call,Co-pay Assistance Program,High Interest
+CALL3000997,REP003,Charlie Vance,South,1800000248,2025-10-18,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3000998,REP005,Ethan Hunt,Northeast,1800000061,2025-05-05,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3000999,REP005,Ethan Hunt,Northeast,1800000125,2025-04-15,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001000,REP001,Alice Carter,East,1800000084,2025-10-09,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3001001,REP005,Ethan Hunt,Northeast,1800000155,2025-12-20,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001002,REP001,Alice Carter,East,1800000073,2025-09-22,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3001003,REP003,Charlie Vance,South,1800000018,2025-06-29,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001004,REP003,Charlie Vance,South,1800000104,2025-06-04,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001005,REP002,Bob Mendez,West,1800000014,2025-01-20,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001006,REP003,Charlie Vance,South,1800000119,2025-01-20,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3001007,REP001,Alice Carter,East,1800000076,2025-03-13,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3001008,REP005,Ethan Hunt,Northeast,1800000028,2025-11-06,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3001009,REP003,Charlie Vance,South,1800000114,2025-08-05,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001010,REP004,Diana Prince,Midwest,1800000198,2025-11-05,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3001011,REP003,Charlie Vance,South,1800000200,2025-08-18,In-Person,Efficacy Profile,Favorable
+CALL3001012,REP001,Alice Carter,East,1800000051,2025-08-21,Email Follow-up,Efficacy Profile,Neutral
+CALL3001013,REP005,Ethan Hunt,Northeast,1800000028,2025-10-28,In-Person,Clinical Trials Data,Unfavorable
+CALL3001014,REP005,Ethan Hunt,Northeast,1800000120,2025-01-11,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001015,REP004,Diana Prince,Midwest,1800000056,2025-02-21,In-Person,Market Access & Formulary Update,High Interest
+CALL3001016,REP002,Bob Mendez,West,1800000125,2025-02-05,Virtual Video,Clinical Trials Data,Favorable
+CALL3001017,REP002,Bob Mendez,West,1800000233,2025-06-12,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001018,REP003,Charlie Vance,South,1800000019,2025-10-16,In-Person,Safety & Tolerability,Favorable
+CALL3001019,REP002,Bob Mendez,West,1800000035,2025-02-07,In-Person,Safety & Tolerability,Unfavorable
+CALL3001020,REP005,Ethan Hunt,Northeast,1800000110,2025-11-12,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001021,REP004,Diana Prince,Midwest,1800000222,2025-01-16,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3001022,REP003,Charlie Vance,South,1800000021,2025-12-20,Phone Call,Clinical Trials Data,Favorable
+CALL3001023,REP003,Charlie Vance,South,1800000023,2025-07-30,Phone Call,Market Access & Formulary Update,Neutral
+CALL3001024,REP003,Charlie Vance,South,1800000179,2025-04-17,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001025,REP001,Alice Carter,East,1800000161,2025-01-20,Phone Call,Safety & Tolerability,Neutral
+CALL3001026,REP001,Alice Carter,East,1800000094,2025-04-24,Phone Call,Clinical Trials Data,Neutral
+CALL3001027,REP005,Ethan Hunt,Northeast,1800000047,2025-11-24,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001028,REP001,Alice Carter,East,1800000197,2025-01-26,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001029,REP002,Bob Mendez,West,1800000070,2025-07-01,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001030,REP002,Bob Mendez,West,1800000151,2025-12-08,In-Person,Clinical Trials Data,Favorable
+CALL3001031,REP004,Diana Prince,Midwest,1800000117,2025-06-03,Phone Call,Safety & Tolerability,Favorable
+CALL3001032,REP005,Ethan Hunt,Northeast,1800000097,2025-03-09,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001033,REP005,Ethan Hunt,Northeast,1800000021,2025-08-14,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001034,REP001,Alice Carter,East,1800000082,2025-04-06,Virtual Video,Clinical Trials Data,Favorable
+CALL3001035,REP004,Diana Prince,Midwest,1800000219,2025-12-26,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001036,REP002,Bob Mendez,West,1800000231,2025-09-28,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3001037,REP001,Alice Carter,East,1800000098,2025-10-15,In-Person,Safety & Tolerability,Unfavorable
+CALL3001038,REP002,Bob Mendez,West,1800000087,2025-09-27,In-Person,Clinical Trials Data,Unfavorable
+CALL3001039,REP001,Alice Carter,East,1800000008,2025-07-03,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3001040,REP001,Alice Carter,East,1800000049,2025-06-10,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001041,REP003,Charlie Vance,South,1800000080,2025-04-02,In-Person,Efficacy Profile,Favorable
+CALL3001042,REP003,Charlie Vance,South,1800000122,2025-11-13,Email Follow-up,Efficacy Profile,Neutral
+CALL3001043,REP003,Charlie Vance,South,1800000076,2025-01-12,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001044,REP005,Ethan Hunt,Northeast,1800000146,2025-09-07,Phone Call,Safety & Tolerability,High Interest
+CALL3001045,REP003,Charlie Vance,South,1800000044,2025-03-25,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001046,REP001,Alice Carter,East,1800000004,2025-12-14,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3001047,REP003,Charlie Vance,South,1800000088,2025-01-21,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001048,REP001,Alice Carter,East,1800000046,2025-12-01,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001049,REP005,Ethan Hunt,Northeast,1800000192,2025-07-27,Phone Call,Safety & Tolerability,Favorable
+CALL3001050,REP002,Bob Mendez,West,1800000013,2025-06-05,Virtual Video,Efficacy Profile,Neutral
+CALL3001051,REP002,Bob Mendez,West,1800000038,2025-05-23,Email Follow-up,Efficacy Profile,Neutral
+CALL3001052,REP002,Bob Mendez,West,1800000134,2025-06-01,Phone Call,Efficacy Profile,High Interest
+CALL3001053,REP002,Bob Mendez,West,1800000104,2025-09-05,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3001054,REP001,Alice Carter,East,1800000144,2025-11-12,Virtual Video,Safety & Tolerability,High Interest
+CALL3001055,REP001,Alice Carter,East,1800000136,2025-06-12,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001056,REP001,Alice Carter,East,1800000226,2025-10-19,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001057,REP005,Ethan Hunt,Northeast,1800000077,2025-05-22,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001058,REP001,Alice Carter,East,1800000006,2025-03-06,In-Person,Safety & Tolerability,High Interest
+CALL3001059,REP005,Ethan Hunt,Northeast,1800000126,2025-08-12,Phone Call,Market Access & Formulary Update,Favorable
+CALL3001060,REP003,Charlie Vance,South,1800000127,2025-02-28,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001061,REP002,Bob Mendez,West,1800000004,2025-09-24,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3001062,REP005,Ethan Hunt,Northeast,1800000127,2025-11-12,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001063,REP002,Bob Mendez,West,1800000045,2025-10-19,Phone Call,Market Access & Formulary Update,High Interest
+CALL3001064,REP004,Diana Prince,Midwest,1800000068,2025-03-14,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001065,REP001,Alice Carter,East,1800000031,2025-08-18,Phone Call,Efficacy Profile,High Interest
+CALL3001066,REP004,Diana Prince,Midwest,1800000123,2025-06-28,Phone Call,Clinical Trials Data,Neutral
+CALL3001067,REP001,Alice Carter,East,1800000057,2025-11-27,In-Person,Clinical Trials Data,Unfavorable
+CALL3001068,REP001,Alice Carter,East,1800000092,2025-08-23,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3001069,REP003,Charlie Vance,South,1800000186,2025-01-08,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001070,REP001,Alice Carter,East,1800000045,2025-01-14,In-Person,Safety & Tolerability,Unfavorable
+CALL3001071,REP001,Alice Carter,East,1800000247,2025-09-29,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001072,REP001,Alice Carter,East,1800000172,2025-06-07,Email Follow-up,Clinical Trials Data,Neutral
+CALL3001073,REP005,Ethan Hunt,Northeast,1800000086,2025-06-01,Phone Call,Efficacy Profile,Unfavorable
+CALL3001074,REP005,Ethan Hunt,Northeast,1800000143,2025-09-14,Phone Call,Efficacy Profile,Favorable
+CALL3001075,REP004,Diana Prince,Midwest,1800000042,2025-02-04,Virtual Video,Efficacy Profile,Neutral
+CALL3001076,REP001,Alice Carter,East,1800000143,2025-01-09,Phone Call,Market Access & Formulary Update,Favorable
+CALL3001077,REP005,Ethan Hunt,Northeast,1800000198,2025-07-28,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001078,REP002,Bob Mendez,West,1800000015,2025-10-09,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001079,REP003,Charlie Vance,South,1800000057,2025-03-13,Virtual Video,Efficacy Profile,Neutral
+CALL3001080,REP004,Diana Prince,Midwest,1800000060,2025-06-01,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
+CALL3001081,REP004,Diana Prince,Midwest,1800000218,2025-09-15,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3001082,REP002,Bob Mendez,West,1800000130,2025-02-18,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3001083,REP003,Charlie Vance,South,1800000235,2025-04-18,Virtual Video,Market Access & Formulary Update,Unfavorable
+CALL3001084,REP003,Charlie Vance,South,1800000246,2025-06-16,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3001085,REP002,Bob Mendez,West,1800000202,2025-09-28,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3001086,REP004,Diana Prince,Midwest,1800000234,2025-06-26,Phone Call,Efficacy Profile,Favorable
+CALL3001087,REP005,Ethan Hunt,Northeast,1800000209,2025-01-16,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3001088,REP002,Bob Mendez,West,1800000033,2025-10-20,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001089,REP001,Alice Carter,East,1800000048,2025-03-12,Virtual Video,Efficacy Profile,Favorable
+CALL3001090,REP002,Bob Mendez,West,1800000174,2025-08-20,In-Person,Safety & Tolerability,Favorable
+CALL3001091,REP002,Bob Mendez,West,1800000135,2025-09-14,Email Follow-up,Efficacy Profile,Favorable
+CALL3001092,REP004,Diana Prince,Midwest,1800000008,2025-01-30,Phone Call,Safety & Tolerability,High Interest
+CALL3001093,REP004,Diana Prince,Midwest,1800000217,2025-02-28,In-Person,Market Access & Formulary Update,Neutral
+CALL3001094,REP001,Alice Carter,East,1800000225,2025-01-13,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001095,REP004,Diana Prince,Midwest,1800000176,2025-11-26,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001096,REP002,Bob Mendez,West,1800000063,2025-10-09,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001097,REP004,Diana Prince,Midwest,1800000053,2025-07-26,Phone Call,Safety & Tolerability,High Interest
+CALL3001098,REP004,Diana Prince,Midwest,1800000140,2025-06-21,Email Follow-up,Safety & Tolerability,Favorable
+CALL3001099,REP005,Ethan Hunt,Northeast,1800000185,2025-12-07,In-Person,Co-pay Assistance Program,Favorable
+CALL3001100,REP004,Diana Prince,Midwest,1800000155,2025-02-15,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001101,REP002,Bob Mendez,West,1800000142,2025-01-28,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001102,REP005,Ethan Hunt,Northeast,1800000022,2025-09-25,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001103,REP001,Alice Carter,East,1800000233,2025-08-31,Phone Call,Co-pay Assistance Program,Neutral
+CALL3001104,REP002,Bob Mendez,West,1800000183,2025-08-19,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3001105,REP001,Alice Carter,East,1800000228,2025-01-13,Phone Call,Efficacy Profile,High Interest
+CALL3001106,REP002,Bob Mendez,West,1800000189,2025-04-13,Virtual Video,Clinical Trials Data,Favorable
+CALL3001107,REP005,Ethan Hunt,Northeast,1800000097,2025-05-27,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001108,REP005,Ethan Hunt,Northeast,1800000033,2025-09-09,Email Follow-up,Efficacy Profile,Favorable
+CALL3001109,REP005,Ethan Hunt,Northeast,1800000153,2025-04-30,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001110,REP003,Charlie Vance,South,1800000149,2025-01-11,Virtual Video,Clinical Trials Data,Neutral
+CALL3001111,REP004,Diana Prince,Midwest,1800000020,2025-08-05,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001112,REP002,Bob Mendez,West,1800000019,2025-11-04,In-Person,Efficacy Profile,High Interest
+CALL3001113,REP001,Alice Carter,East,1800000139,2025-06-28,Phone Call,Co-pay Assistance Program,High Interest
+CALL3001114,REP003,Charlie Vance,South,1800000194,2025-09-06,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3001115,REP004,Diana Prince,Midwest,1800000223,2025-01-12,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3001116,REP004,Diana Prince,Midwest,1800000025,2025-09-05,Phone Call,Clinical Trials Data,Neutral
+CALL3001117,REP005,Ethan Hunt,Northeast,1800000226,2025-01-12,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001118,REP002,Bob Mendez,West,1800000037,2025-09-27,Phone Call,Safety & Tolerability,Favorable
+CALL3001119,REP004,Diana Prince,Midwest,1800000064,2025-07-23,Virtual Video,Safety & Tolerability,High Interest
+CALL3001120,REP003,Charlie Vance,South,1800000195,2025-08-16,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001121,REP004,Diana Prince,Midwest,1800000043,2025-07-17,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001122,REP001,Alice Carter,East,1800000226,2025-09-30,Phone Call,Market Access & Formulary Update,Neutral
+CALL3001123,REP002,Bob Mendez,West,1800000244,2025-12-27,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001124,REP002,Bob Mendez,West,1800000095,2025-04-24,Phone Call,Clinical Trials Data,Favorable
+CALL3001125,REP005,Ethan Hunt,Northeast,1800000068,2025-12-14,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001126,REP002,Bob Mendez,West,1800000066,2025-04-15,Phone Call,Market Access & Formulary Update,High Interest
+CALL3001127,REP005,Ethan Hunt,Northeast,1800000214,2025-04-13,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3001128,REP005,Ethan Hunt,Northeast,1800000199,2025-03-22,Email Follow-up,Safety & Tolerability,Neutral
+CALL3001129,REP003,Charlie Vance,South,1800000077,2025-10-15,Virtual Video,Efficacy Profile,Neutral
+CALL3001130,REP001,Alice Carter,East,1800000233,2025-01-10,Phone Call,Co-pay Assistance Program,Neutral
+CALL3001131,REP005,Ethan Hunt,Northeast,1800000157,2025-07-19,In-Person,Efficacy Profile,Unfavorable
+CALL3001132,REP002,Bob Mendez,West,1800000164,2025-08-21,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001133,REP004,Diana Prince,Midwest,1800000128,2025-06-12,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3001134,REP001,Alice Carter,East,1800000203,2025-09-09,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3001135,REP004,Diana Prince,Midwest,1800000213,2025-03-05,In-Person,Clinical Trials Data,High Interest
+CALL3001136,REP004,Diana Prince,Midwest,1800000132,2025-01-12,Email Follow-up,Co-pay Assistance Program,Neutral
+CALL3001137,REP001,Alice Carter,East,1800000045,2025-08-07,Phone Call,Clinical Trials Data,Favorable
+CALL3001138,REP002,Bob Mendez,West,1800000052,2025-02-09,Phone Call,Clinical Trials Data,Neutral
+CALL3001139,REP002,Bob Mendez,West,1800000012,2025-03-19,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001140,REP003,Charlie Vance,South,1800000125,2025-10-21,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001141,REP003,Charlie Vance,South,1800000134,2025-02-11,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3001142,REP003,Charlie Vance,South,1800000178,2025-05-19,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001143,REP002,Bob Mendez,West,1800000060,2025-07-23,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001144,REP004,Diana Prince,Midwest,1800000141,2025-08-07,In-Person,Safety & Tolerability,High Interest
+CALL3001145,REP003,Charlie Vance,South,1800000246,2025-06-30,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001146,REP004,Diana Prince,Midwest,1800000218,2025-11-25,Phone Call,Efficacy Profile,Neutral
+CALL3001147,REP005,Ethan Hunt,Northeast,1800000090,2025-01-16,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001148,REP003,Charlie Vance,South,1800000213,2025-02-13,In-Person,Efficacy Profile,Neutral
+CALL3001149,REP003,Charlie Vance,South,1800000110,2025-06-25,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3001150,REP004,Diana Prince,Midwest,1800000172,2025-10-12,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001151,REP002,Bob Mendez,West,1800000067,2025-12-15,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001152,REP004,Diana Prince,Midwest,1800000121,2025-11-08,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3001153,REP002,Bob Mendez,West,1800000150,2025-06-23,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001154,REP005,Ethan Hunt,Northeast,1800000099,2025-12-05,Virtual Video,Clinical Trials Data,Favorable
+CALL3001155,REP001,Alice Carter,East,1800000068,2025-02-15,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3001156,REP002,Bob Mendez,West,1800000177,2025-11-07,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3001157,REP001,Alice Carter,East,1800000077,2025-02-06,Virtual Video,Efficacy Profile,High Interest
+CALL3001158,REP001,Alice Carter,East,1800000197,2025-10-25,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001159,REP004,Diana Prince,Midwest,1800000059,2025-08-02,Phone Call,Safety & Tolerability,Favorable
+CALL3001160,REP004,Diana Prince,Midwest,1800000239,2025-11-25,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001161,REP001,Alice Carter,East,1800000030,2025-06-21,Phone Call,Market Access & Formulary Update,Neutral
+CALL3001162,REP005,Ethan Hunt,Northeast,1800000245,2025-12-08,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001163,REP003,Charlie Vance,South,1800000003,2025-01-02,In-Person,Efficacy Profile,High Interest
+CALL3001164,REP003,Charlie Vance,South,1800000218,2025-03-14,In-Person,Safety & Tolerability,Neutral
+CALL3001165,REP001,Alice Carter,East,1800000171,2025-09-03,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001166,REP005,Ethan Hunt,Northeast,1800000097,2025-12-26,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001167,REP004,Diana Prince,Midwest,1800000195,2025-07-15,Phone Call,Co-pay Assistance Program,Favorable
+CALL3001168,REP002,Bob Mendez,West,1800000133,2025-04-13,Email Follow-up,Safety & Tolerability,Favorable
+CALL3001169,REP001,Alice Carter,East,1800000012,2025-08-13,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001170,REP001,Alice Carter,East,1800000050,2025-02-14,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001171,REP004,Diana Prince,Midwest,1800000049,2025-11-27,Phone Call,Safety & Tolerability,Favorable
+CALL3001172,REP005,Ethan Hunt,Northeast,1800000105,2025-05-16,In-Person,Co-pay Assistance Program,Neutral
+CALL3001173,REP001,Alice Carter,East,1800000043,2025-09-04,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001174,REP005,Ethan Hunt,Northeast,1800000142,2025-01-08,Virtual Video,Clinical Trials Data,Favorable
+CALL3001175,REP001,Alice Carter,East,1800000158,2025-11-08,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3001176,REP003,Charlie Vance,South,1800000019,2025-03-21,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001177,REP004,Diana Prince,Midwest,1800000213,2025-07-03,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3001178,REP004,Diana Prince,Midwest,1800000223,2025-01-29,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001179,REP003,Charlie Vance,South,1800000175,2025-10-08,Email Follow-up,Efficacy Profile,High Interest
+CALL3001180,REP002,Bob Mendez,West,1800000202,2025-09-23,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001181,REP001,Alice Carter,East,1800000050,2025-05-21,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001182,REP002,Bob Mendez,West,1800000138,2025-08-03,In-Person,Efficacy Profile,High Interest
+CALL3001183,REP001,Alice Carter,East,1800000136,2025-04-13,In-Person,Efficacy Profile,Neutral
+CALL3001184,REP002,Bob Mendez,West,1800000088,2025-12-12,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3001185,REP001,Alice Carter,East,1800000012,2025-06-17,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3001186,REP005,Ethan Hunt,Northeast,1800000105,2025-04-09,Phone Call,Efficacy Profile,Unfavorable
+CALL3001187,REP004,Diana Prince,Midwest,1800000036,2025-10-06,Phone Call,Efficacy Profile,Unfavorable
+CALL3001188,REP003,Charlie Vance,South,1800000068,2025-08-13,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001189,REP001,Alice Carter,East,1800000186,2025-07-04,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001190,REP002,Bob Mendez,West,1800000044,2025-12-06,In-Person,Market Access & Formulary Update,Favorable
+CALL3001191,REP005,Ethan Hunt,Northeast,1800000083,2025-09-04,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3001192,REP002,Bob Mendez,West,1800000136,2025-11-07,Virtual Video,Safety & Tolerability,Neutral
+CALL3001193,REP004,Diana Prince,Midwest,1800000033,2025-12-25,Phone Call,Efficacy Profile,Unfavorable
+CALL3001194,REP003,Charlie Vance,South,1800000022,2025-08-27,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001195,REP005,Ethan Hunt,Northeast,1800000167,2025-10-26,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3001196,REP004,Diana Prince,Midwest,1800000159,2025-10-14,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001197,REP004,Diana Prince,Midwest,1800000185,2025-10-19,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001198,REP004,Diana Prince,Midwest,1800000177,2025-11-02,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001199,REP005,Ethan Hunt,Northeast,1800000207,2025-01-17,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3001200,REP004,Diana Prince,Midwest,1800000090,2025-03-15,In-Person,Clinical Trials Data,Favorable
+CALL3001201,REP003,Charlie Vance,South,1800000135,2025-09-01,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3001202,REP001,Alice Carter,East,1800000032,2025-01-27,Phone Call,Efficacy Profile,High Interest
+CALL3001203,REP005,Ethan Hunt,Northeast,1800000073,2025-03-13,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001204,REP001,Alice Carter,East,1800000041,2025-03-16,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3001205,REP002,Bob Mendez,West,1800000083,2025-10-24,Phone Call,Clinical Trials Data,Unfavorable
+CALL3001206,REP005,Ethan Hunt,Northeast,1800000006,2025-12-23,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3001207,REP004,Diana Prince,Midwest,1800000220,2025-03-30,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001208,REP002,Bob Mendez,West,1800000114,2025-07-22,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001209,REP001,Alice Carter,East,1800000102,2025-03-16,Phone Call,Efficacy Profile,Unfavorable
+CALL3001210,REP001,Alice Carter,East,1800000224,2025-12-10,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001211,REP004,Diana Prince,Midwest,1800000249,2025-02-20,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001212,REP001,Alice Carter,East,1800000156,2025-06-16,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3001213,REP005,Ethan Hunt,Northeast,1800000157,2025-05-02,Virtual Video,Safety & Tolerability,Favorable
+CALL3001214,REP002,Bob Mendez,West,1800000111,2025-09-09,Virtual Video,Clinical Trials Data,Neutral
+CALL3001215,REP003,Charlie Vance,South,1800000185,2025-01-25,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001216,REP002,Bob Mendez,West,1800000031,2025-02-05,In-Person,Safety & Tolerability,High Interest
+CALL3001217,REP002,Bob Mendez,West,1800000224,2025-08-26,Virtual Video,Safety & Tolerability,High Interest
+CALL3001218,REP004,Diana Prince,Midwest,1800000062,2025-02-04,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001219,REP005,Ethan Hunt,Northeast,1800000153,2025-04-25,Virtual Video,Clinical Trials Data,Favorable
+CALL3001220,REP002,Bob Mendez,West,1800000072,2025-01-09,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3001221,REP002,Bob Mendez,West,1800000082,2025-05-29,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001222,REP002,Bob Mendez,West,1800000201,2025-03-13,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001223,REP003,Charlie Vance,South,1800000039,2025-10-25,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001224,REP005,Ethan Hunt,Northeast,1800000005,2025-08-18,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3001225,REP004,Diana Prince,Midwest,1800000053,2025-04-18,In-Person,Safety & Tolerability,Favorable
+CALL3001226,REP005,Ethan Hunt,Northeast,1800000225,2025-01-14,In-Person,Safety & Tolerability,Favorable
+CALL3001227,REP004,Diana Prince,Midwest,1800000015,2025-11-20,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3001228,REP002,Bob Mendez,West,1800000019,2025-05-27,In-Person,Clinical Trials Data,Favorable
+CALL3001229,REP002,Bob Mendez,West,1800000100,2025-02-27,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3001230,REP002,Bob Mendez,West,1800000052,2025-10-08,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001231,REP003,Charlie Vance,South,1800000088,2025-11-20,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3001232,REP003,Charlie Vance,South,1800000210,2025-02-11,Phone Call,Safety & Tolerability,Favorable
+CALL3001233,REP005,Ethan Hunt,Northeast,1800000175,2025-06-24,Email Follow-up,Safety & Tolerability,Neutral
+CALL3001234,REP001,Alice Carter,East,1800000247,2025-07-15,Email Follow-up,Efficacy Profile,Favorable
+CALL3001235,REP002,Bob Mendez,West,1800000035,2025-12-16,Virtual Video,Clinical Trials Data,High Interest
+CALL3001236,REP005,Ethan Hunt,Northeast,1800000005,2025-05-02,In-Person,Safety & Tolerability,Neutral
+CALL3001237,REP004,Diana Prince,Midwest,1800000080,2025-05-30,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3001238,REP001,Alice Carter,East,1800000085,2025-12-13,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3001239,REP003,Charlie Vance,South,1800000144,2025-04-25,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001240,REP003,Charlie Vance,South,1800000011,2025-11-11,In-Person,Efficacy Profile,Favorable
+CALL3001241,REP005,Ethan Hunt,Northeast,1800000019,2025-09-16,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001242,REP002,Bob Mendez,West,1800000163,2025-07-18,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3001243,REP001,Alice Carter,East,1800000064,2025-12-12,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001244,REP004,Diana Prince,Midwest,1800000238,2025-10-22,In-Person,Safety & Tolerability,Neutral
+CALL3001245,REP004,Diana Prince,Midwest,1800000144,2025-01-21,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3001246,REP003,Charlie Vance,South,1800000102,2025-02-03,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001247,REP003,Charlie Vance,South,1800000121,2025-03-13,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001248,REP002,Bob Mendez,West,1800000078,2025-01-20,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001249,REP004,Diana Prince,Midwest,1800000128,2025-03-18,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001250,REP005,Ethan Hunt,Northeast,1800000107,2025-07-19,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3001251,REP002,Bob Mendez,West,1800000212,2025-06-03,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001252,REP001,Alice Carter,East,1800000187,2025-09-19,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001253,REP005,Ethan Hunt,Northeast,1800000130,2025-03-11,Virtual Video,Clinical Trials Data,Unfavorable
+CALL3001254,REP005,Ethan Hunt,Northeast,1800000191,2025-07-10,Virtual Video,Co-pay Assistance Program,Favorable
+CALL3001255,REP001,Alice Carter,East,1800000085,2025-07-30,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001256,REP004,Diana Prince,Midwest,1800000058,2025-07-03,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3001257,REP003,Charlie Vance,South,1800000247,2025-07-18,Phone Call,Safety & Tolerability,Unfavorable
+CALL3001258,REP005,Ethan Hunt,Northeast,1800000239,2025-01-04,Phone Call,Safety & Tolerability,High Interest
+CALL3001259,REP002,Bob Mendez,West,1800000102,2025-03-02,In-Person,Efficacy Profile,Neutral
+CALL3001260,REP004,Diana Prince,Midwest,1800000241,2025-11-20,In-Person,Co-pay Assistance Program,High Interest
+CALL3001261,REP001,Alice Carter,East,1800000241,2025-01-12,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001262,REP003,Charlie Vance,South,1800000001,2025-01-24,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001263,REP003,Charlie Vance,South,1800000224,2025-08-03,Virtual Video,Clinical Trials Data,High Interest
+CALL3001264,REP004,Diana Prince,Midwest,1800000232,2025-08-22,Phone Call,Safety & Tolerability,High Interest
+CALL3001265,REP003,Charlie Vance,South,1800000147,2025-05-06,Phone Call,Co-pay Assistance Program,High Interest
+CALL3001266,REP003,Charlie Vance,South,1800000216,2025-09-12,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3001267,REP004,Diana Prince,Midwest,1800000067,2025-04-05,Phone Call,Clinical Trials Data,Neutral
+CALL3001268,REP002,Bob Mendez,West,1800000167,2025-06-16,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001269,REP003,Charlie Vance,South,1800000158,2025-09-09,Phone Call,Clinical Trials Data,Neutral
+CALL3001270,REP001,Alice Carter,East,1800000148,2025-09-30,Phone Call,Clinical Trials Data,Neutral
+CALL3001271,REP004,Diana Prince,Midwest,1800000055,2025-02-26,Email Follow-up,Efficacy Profile,Favorable
+CALL3001272,REP002,Bob Mendez,West,1800000165,2025-10-15,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001273,REP004,Diana Prince,Midwest,1800000143,2025-11-10,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3001274,REP002,Bob Mendez,West,1800000111,2025-04-26,Phone Call,Safety & Tolerability,Unfavorable
+CALL3001275,REP005,Ethan Hunt,Northeast,1800000036,2025-09-15,In-Person,Market Access & Formulary Update,Favorable
+CALL3001276,REP002,Bob Mendez,West,1800000025,2025-06-09,Virtual Video,Efficacy Profile,Favorable
+CALL3001277,REP003,Charlie Vance,South,1800000039,2025-01-21,In-Person,Safety & Tolerability,Unfavorable
+CALL3001278,REP005,Ethan Hunt,Northeast,1800000160,2025-01-16,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3001279,REP005,Ethan Hunt,Northeast,1800000178,2025-10-08,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001280,REP005,Ethan Hunt,Northeast,1800000045,2025-06-11,Virtual Video,Co-pay Assistance Program,Busy - Left Materials
+CALL3001281,REP004,Diana Prince,Midwest,1800000169,2025-01-01,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3001282,REP001,Alice Carter,East,1800000194,2025-08-11,In-Person,Clinical Trials Data,High Interest
+CALL3001283,REP002,Bob Mendez,West,1800000031,2025-11-30,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001284,REP005,Ethan Hunt,Northeast,1800000137,2025-12-06,In-Person,Clinical Trials Data,Favorable
+CALL3001285,REP004,Diana Prince,Midwest,1800000109,2025-07-26,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001286,REP002,Bob Mendez,West,1800000226,2025-05-02,Virtual Video,Market Access & Formulary Update,Neutral
+CALL3001287,REP003,Charlie Vance,South,1800000250,2025-06-09,Email Follow-up,Efficacy Profile,High Interest
+CALL3001288,REP004,Diana Prince,Midwest,1800000146,2025-06-12,Phone Call,Market Access & Formulary Update,Neutral
+CALL3001289,REP004,Diana Prince,Midwest,1800000210,2025-02-04,In-Person,Clinical Trials Data,High Interest
+CALL3001290,REP003,Charlie Vance,South,1800000158,2025-05-12,Phone Call,Efficacy Profile,Neutral
+CALL3001291,REP002,Bob Mendez,West,1800000099,2025-03-04,Phone Call,Co-pay Assistance Program,High Interest
+CALL3001292,REP005,Ethan Hunt,Northeast,1800000226,2025-04-22,In-Person,Safety & Tolerability,Favorable
+CALL3001293,REP001,Alice Carter,East,1800000215,2025-12-17,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001294,REP001,Alice Carter,East,1800000078,2025-10-26,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001295,REP001,Alice Carter,East,1800000003,2025-01-30,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001296,REP001,Alice Carter,East,1800000120,2025-07-14,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3001297,REP003,Charlie Vance,South,1800000191,2025-01-30,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001298,REP001,Alice Carter,East,1800000087,2025-10-10,Phone Call,Co-pay Assistance Program,Neutral
+CALL3001299,REP001,Alice Carter,East,1800000186,2025-03-10,Virtual Video,Clinical Trials Data,Favorable
+CALL3001300,REP005,Ethan Hunt,Northeast,1800000067,2025-03-23,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001301,REP004,Diana Prince,Midwest,1800000207,2025-05-26,Email Follow-up,Safety & Tolerability,Neutral
+CALL3001302,REP005,Ethan Hunt,Northeast,1800000192,2025-05-07,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001303,REP003,Charlie Vance,South,1800000127,2025-06-03,Phone Call,Market Access & Formulary Update,High Interest
+CALL3001304,REP002,Bob Mendez,West,1800000053,2025-09-13,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001305,REP002,Bob Mendez,West,1800000058,2025-05-11,Phone Call,Market Access & Formulary Update,Favorable
+CALL3001306,REP002,Bob Mendez,West,1800000141,2025-09-30,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001307,REP001,Alice Carter,East,1800000102,2025-10-30,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001308,REP003,Charlie Vance,South,1800000111,2025-10-15,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3001309,REP003,Charlie Vance,South,1800000166,2025-08-22,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001310,REP004,Diana Prince,Midwest,1800000035,2025-06-18,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001311,REP003,Charlie Vance,South,1800000216,2025-11-20,In-Person,Safety & Tolerability,High Interest
+CALL3001312,REP003,Charlie Vance,South,1800000191,2025-05-23,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001313,REP004,Diana Prince,Midwest,1800000168,2025-08-05,Virtual Video,Efficacy Profile,Favorable
+CALL3001314,REP004,Diana Prince,Midwest,1800000210,2025-01-07,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001315,REP003,Charlie Vance,South,1800000211,2025-12-29,Phone Call,Co-pay Assistance Program,Busy - Left Materials
+CALL3001316,REP002,Bob Mendez,West,1800000202,2025-09-13,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3001317,REP003,Charlie Vance,South,1800000171,2025-09-07,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001318,REP005,Ethan Hunt,Northeast,1800000137,2025-09-13,Phone Call,Efficacy Profile,High Interest
+CALL3001319,REP005,Ethan Hunt,Northeast,1800000074,2025-09-28,Virtual Video,Safety & Tolerability,Favorable
+CALL3001320,REP004,Diana Prince,Midwest,1800000193,2025-04-18,Email Follow-up,Efficacy Profile,High Interest
+CALL3001321,REP003,Charlie Vance,South,1800000242,2025-05-20,Email Follow-up,Efficacy Profile,Neutral
+CALL3001322,REP005,Ethan Hunt,Northeast,1800000147,2025-12-18,Email Follow-up,Clinical Trials Data,High Interest
+CALL3001323,REP005,Ethan Hunt,Northeast,1800000067,2025-11-19,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3001324,REP003,Charlie Vance,South,1800000179,2025-11-12,Email Follow-up,Efficacy Profile,Neutral
+CALL3001325,REP001,Alice Carter,East,1800000225,2025-11-11,Email Follow-up,Clinical Trials Data,Neutral
+CALL3001326,REP001,Alice Carter,East,1800000236,2025-09-18,Phone Call,Efficacy Profile,Favorable
+CALL3001327,REP004,Diana Prince,Midwest,1800000065,2025-01-15,Phone Call,Safety & Tolerability,Neutral
+CALL3001328,REP002,Bob Mendez,West,1800000154,2025-04-24,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001329,REP004,Diana Prince,Midwest,1800000151,2025-12-25,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001330,REP003,Charlie Vance,South,1800000202,2025-08-21,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001331,REP004,Diana Prince,Midwest,1800000072,2025-06-22,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001332,REP001,Alice Carter,East,1800000212,2025-07-25,In-Person,Clinical Trials Data,Neutral
+CALL3001333,REP005,Ethan Hunt,Northeast,1800000145,2025-04-24,Phone Call,Co-pay Assistance Program,Favorable
+CALL3001334,REP002,Bob Mendez,West,1800000115,2025-12-30,In-Person,Market Access & Formulary Update,High Interest
+CALL3001335,REP003,Charlie Vance,South,1800000081,2025-05-16,Email Follow-up,Efficacy Profile,High Interest
+CALL3001336,REP004,Diana Prince,Midwest,1800000238,2025-10-14,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001337,REP002,Bob Mendez,West,1800000208,2025-10-16,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001338,REP003,Charlie Vance,South,1800000189,2025-07-29,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001339,REP003,Charlie Vance,South,1800000013,2025-10-24,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001340,REP005,Ethan Hunt,Northeast,1800000223,2025-03-24,Email Follow-up,Efficacy Profile,Favorable
+CALL3001341,REP005,Ethan Hunt,Northeast,1800000141,2025-04-01,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001342,REP001,Alice Carter,East,1800000188,2025-10-18,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001343,REP002,Bob Mendez,West,1800000096,2025-06-03,In-Person,Clinical Trials Data,Busy - Left Materials
+CALL3001344,REP003,Charlie Vance,South,1800000138,2025-09-29,In-Person,Clinical Trials Data,Unfavorable
+CALL3001345,REP002,Bob Mendez,West,1800000239,2025-01-06,Phone Call,Safety & Tolerability,Favorable
+CALL3001346,REP005,Ethan Hunt,Northeast,1800000024,2025-03-11,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001347,REP001,Alice Carter,East,1800000194,2025-08-22,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001348,REP004,Diana Prince,Midwest,1800000138,2025-11-06,Phone Call,Safety & Tolerability,Busy - Left Materials
+CALL3001349,REP005,Ethan Hunt,Northeast,1800000175,2025-10-13,Email Follow-up,Safety & Tolerability,Neutral
+CALL3001350,REP002,Bob Mendez,West,1800000119,2025-06-28,In-Person,Co-pay Assistance Program,High Interest
+CALL3001351,REP004,Diana Prince,Midwest,1800000084,2025-01-30,Phone Call,Market Access & Formulary Update,High Interest
+CALL3001352,REP005,Ethan Hunt,Northeast,1800000164,2025-07-09,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001353,REP003,Charlie Vance,South,1800000113,2025-01-25,Phone Call,Market Access & Formulary Update,Neutral
+CALL3001354,REP005,Ethan Hunt,Northeast,1800000203,2025-10-12,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001355,REP003,Charlie Vance,South,1800000010,2025-09-05,Virtual Video,Safety & Tolerability,Unfavorable
+CALL3001356,REP003,Charlie Vance,South,1800000089,2025-07-12,Virtual Video,Safety & Tolerability,Favorable
+CALL3001357,REP005,Ethan Hunt,Northeast,1800000017,2025-11-23,Email Follow-up,Efficacy Profile,High Interest
+CALL3001358,REP005,Ethan Hunt,Northeast,1800000048,2025-03-15,In-Person,Market Access & Formulary Update,Neutral
+CALL3001359,REP001,Alice Carter,East,1800000055,2025-04-14,Phone Call,Market Access & Formulary Update,Busy - Left Materials
+CALL3001360,REP004,Diana Prince,Midwest,1800000092,2025-11-23,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001361,REP004,Diana Prince,Midwest,1800000200,2025-10-05,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001362,REP005,Ethan Hunt,Northeast,1800000218,2025-05-25,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3001363,REP001,Alice Carter,East,1800000173,2025-10-06,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3001364,REP001,Alice Carter,East,1800000054,2025-09-15,Virtual Video,Safety & Tolerability,High Interest
+CALL3001365,REP001,Alice Carter,East,1800000157,2025-07-28,Email Follow-up,Clinical Trials Data,Neutral
+CALL3001366,REP004,Diana Prince,Midwest,1800000081,2025-12-08,Virtual Video,Safety & Tolerability,Neutral
+CALL3001367,REP004,Diana Prince,Midwest,1800000098,2025-05-07,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3001368,REP002,Bob Mendez,West,1800000115,2025-01-05,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001369,REP004,Diana Prince,Midwest,1800000117,2025-09-06,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001370,REP003,Charlie Vance,South,1800000047,2025-10-24,Phone Call,Efficacy Profile,Busy - Left Materials
+CALL3001371,REP004,Diana Prince,Midwest,1800000010,2025-11-22,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001372,REP005,Ethan Hunt,Northeast,1800000023,2025-12-11,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001373,REP002,Bob Mendez,West,1800000100,2025-12-08,Virtual Video,Safety & Tolerability,High Interest
+CALL3001374,REP001,Alice Carter,East,1800000227,2025-06-26,Phone Call,Clinical Trials Data,High Interest
+CALL3001375,REP002,Bob Mendez,West,1800000019,2025-05-12,In-Person,Safety & Tolerability,Favorable
+CALL3001376,REP005,Ethan Hunt,Northeast,1800000168,2025-11-22,Email Follow-up,Clinical Trials Data,Favorable
+CALL3001377,REP001,Alice Carter,East,1800000170,2025-10-30,Phone Call,Efficacy Profile,Unfavorable
+CALL3001378,REP003,Charlie Vance,South,1800000209,2025-10-21,Virtual Video,Clinical Trials Data,Neutral
+CALL3001379,REP001,Alice Carter,East,1800000031,2025-09-30,Phone Call,Market Access & Formulary Update,High Interest
+CALL3001380,REP002,Bob Mendez,West,1800000002,2025-04-03,Virtual Video,Efficacy Profile,Neutral
+CALL3001381,REP002,Bob Mendez,West,1800000026,2025-12-08,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001382,REP001,Alice Carter,East,1800000040,2025-06-08,Virtual Video,Efficacy Profile,High Interest
+CALL3001383,REP005,Ethan Hunt,Northeast,1800000185,2025-06-02,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001384,REP004,Diana Prince,Midwest,1800000201,2025-04-25,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001385,REP001,Alice Carter,East,1800000105,2025-06-13,Email Follow-up,Safety & Tolerability,Busy - Left Materials
+CALL3001386,REP002,Bob Mendez,West,1800000134,2025-01-25,In-Person,Clinical Trials Data,Neutral
+CALL3001387,REP005,Ethan Hunt,Northeast,1800000079,2025-07-05,Email Follow-up,Safety & Tolerability,Favorable
+CALL3001388,REP003,Charlie Vance,South,1800000214,2025-06-27,Phone Call,Efficacy Profile,Neutral
+CALL3001389,REP002,Bob Mendez,West,1800000111,2025-01-01,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3001390,REP005,Ethan Hunt,Northeast,1800000026,2025-06-14,Phone Call,Efficacy Profile,Unfavorable
+CALL3001391,REP005,Ethan Hunt,Northeast,1800000249,2025-07-06,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001392,REP004,Diana Prince,Midwest,1800000047,2025-11-21,Email Follow-up,Safety & Tolerability,Favorable
+CALL3001393,REP005,Ethan Hunt,Northeast,1800000048,2025-04-27,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001394,REP001,Alice Carter,East,1800000139,2025-06-04,Phone Call,Clinical Trials Data,High Interest
+CALL3001395,REP004,Diana Prince,Midwest,1800000049,2025-03-13,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001396,REP001,Alice Carter,East,1800000169,2025-08-16,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001397,REP003,Charlie Vance,South,1800000162,2025-01-03,In-Person,Efficacy Profile,Unfavorable
+CALL3001398,REP003,Charlie Vance,South,1800000119,2025-12-09,Email Follow-up,Clinical Trials Data,Unfavorable
+CALL3001399,REP005,Ethan Hunt,Northeast,1800000211,2025-07-07,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001400,REP004,Diana Prince,Midwest,1800000007,2025-08-16,In-Person,Safety & Tolerability,Neutral
+CALL3001401,REP001,Alice Carter,East,1800000141,2025-05-09,Email Follow-up,Clinical Trials Data,Neutral
+CALL3001402,REP002,Bob Mendez,West,1800000225,2025-01-15,Phone Call,Clinical Trials Data,Favorable
+CALL3001403,REP002,Bob Mendez,West,1800000176,2025-06-02,Email Follow-up,Efficacy Profile,Unfavorable
+CALL3001404,REP001,Alice Carter,East,1800000049,2025-11-23,In-Person,Co-pay Assistance Program,Favorable
+CALL3001405,REP004,Diana Prince,Midwest,1800000027,2025-01-31,Phone Call,Co-pay Assistance Program,Unfavorable
+CALL3001406,REP002,Bob Mendez,West,1800000098,2025-01-31,Email Follow-up,Efficacy Profile,High Interest
+CALL3001407,REP004,Diana Prince,Midwest,1800000081,2025-01-29,Email Follow-up,Market Access & Formulary Update,Busy - Left Materials
+CALL3001408,REP003,Charlie Vance,South,1800000200,2025-03-16,Virtual Video,Efficacy Profile,Busy - Left Materials
+CALL3001409,REP005,Ethan Hunt,Northeast,1800000003,2025-07-31,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001410,REP003,Charlie Vance,South,1800000218,2025-09-14,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001411,REP002,Bob Mendez,West,1800000003,2025-12-28,In-Person,Clinical Trials Data,Favorable
+CALL3001412,REP004,Diana Prince,Midwest,1800000129,2025-05-20,Virtual Video,Clinical Trials Data,Favorable
+CALL3001413,REP002,Bob Mendez,West,1800000112,2025-02-11,In-Person,Safety & Tolerability,Neutral
+CALL3001414,REP003,Charlie Vance,South,1800000230,2025-11-02,Email Follow-up,Co-pay Assistance Program,Busy - Left Materials
+CALL3001415,REP002,Bob Mendez,West,1800000120,2025-03-16,Email Follow-up,Market Access & Formulary Update,High Interest
+CALL3001416,REP005,Ethan Hunt,Northeast,1800000203,2025-05-11,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001417,REP004,Diana Prince,Midwest,1800000048,2025-12-12,Virtual Video,Market Access & Formulary Update,High Interest
+CALL3001418,REP002,Bob Mendez,West,1800000101,2025-09-08,In-Person,Market Access & Formulary Update,Neutral
+CALL3001419,REP004,Diana Prince,Midwest,1800000018,2025-10-13,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001420,REP001,Alice Carter,East,1800000225,2025-07-28,Phone Call,Efficacy Profile,Unfavorable
+CALL3001421,REP001,Alice Carter,East,1800000068,2025-08-04,In-Person,Co-pay Assistance Program,Unfavorable
+CALL3001422,REP005,Ethan Hunt,Northeast,1800000023,2025-03-19,Virtual Video,Clinical Trials Data,Favorable
+CALL3001423,REP002,Bob Mendez,West,1800000038,2025-09-23,In-Person,Safety & Tolerability,Unfavorable
+CALL3001424,REP004,Diana Prince,Midwest,1800000154,2025-09-19,In-Person,Efficacy Profile,Favorable
+CALL3001425,REP003,Charlie Vance,South,1800000125,2025-03-19,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001426,REP004,Diana Prince,Midwest,1800000233,2025-05-06,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001427,REP003,Charlie Vance,South,1800000018,2025-11-16,Email Follow-up,Co-pay Assistance Program,Favorable
+CALL3001428,REP004,Diana Prince,Midwest,1800000210,2025-07-18,Email Follow-up,Efficacy Profile,Favorable
+CALL3001429,REP005,Ethan Hunt,Northeast,1800000223,2025-03-30,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3001430,REP005,Ethan Hunt,Northeast,1800000022,2025-06-02,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3001431,REP005,Ethan Hunt,Northeast,1800000245,2025-08-15,Phone Call,Efficacy Profile,Neutral
+CALL3001432,REP002,Bob Mendez,West,1800000004,2025-10-09,Virtual Video,Safety & Tolerability,Busy - Left Materials
+CALL3001433,REP001,Alice Carter,East,1800000232,2025-02-22,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001434,REP001,Alice Carter,East,1800000090,2025-02-08,In-Person,Market Access & Formulary Update,Unfavorable
+CALL3001435,REP005,Ethan Hunt,Northeast,1800000143,2025-12-29,Virtual Video,Clinical Trials Data,High Interest
+CALL3001436,REP002,Bob Mendez,West,1800000041,2025-03-28,Phone Call,Market Access & Formulary Update,Unfavorable
+CALL3001437,REP001,Alice Carter,East,1800000061,2025-07-12,In-Person,Co-pay Assistance Program,Favorable
+CALL3001438,REP004,Diana Prince,Midwest,1800000069,2025-06-26,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001439,REP004,Diana Prince,Midwest,1800000199,2025-05-07,Phone Call,Efficacy Profile,Unfavorable
+CALL3001440,REP001,Alice Carter,East,1800000147,2025-03-08,Email Follow-up,Co-pay Assistance Program,Unfavorable
+CALL3001441,REP003,Charlie Vance,South,1800000182,2025-09-24,Virtual Video,Clinical Trials Data,Busy - Left Materials
+CALL3001442,REP003,Charlie Vance,South,1800000152,2025-06-05,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001443,REP002,Bob Mendez,West,1800000119,2025-12-10,In-Person,Efficacy Profile,Unfavorable
+CALL3001444,REP002,Bob Mendez,West,1800000066,2025-12-01,Email Follow-up,Clinical Trials Data,Neutral
+CALL3001445,REP005,Ethan Hunt,Northeast,1800000081,2025-09-05,Email Follow-up,Safety & Tolerability,Favorable
+CALL3001446,REP004,Diana Prince,Midwest,1800000031,2025-12-19,In-Person,Market Access & Formulary Update,Favorable
+CALL3001447,REP003,Charlie Vance,South,1800000031,2025-08-26,In-Person,Market Access & Formulary Update,Busy - Left Materials
+CALL3001448,REP001,Alice Carter,East,1800000107,2025-06-10,In-Person,Market Access & Formulary Update,High Interest
+CALL3001449,REP004,Diana Prince,Midwest,1800000013,2025-04-15,Email Follow-up,Clinical Trials Data,High Interest
+CALL3001450,REP002,Bob Mendez,West,1800000084,2025-03-25,Phone Call,Safety & Tolerability,Unfavorable
+CALL3001451,REP001,Alice Carter,East,1800000110,2025-10-25,Phone Call,Co-pay Assistance Program,Favorable
+CALL3001452,REP005,Ethan Hunt,Northeast,1800000067,2025-06-11,Phone Call,Co-pay Assistance Program,Favorable
+CALL3001453,REP004,Diana Prince,Midwest,1800000035,2025-05-23,Phone Call,Clinical Trials Data,Neutral
+CALL3001454,REP002,Bob Mendez,West,1800000203,2025-11-14,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001455,REP001,Alice Carter,East,1800000023,2025-05-25,Virtual Video,Market Access & Formulary Update,Favorable
+CALL3001456,REP002,Bob Mendez,West,1800000248,2025-09-05,Virtual Video,Co-pay Assistance Program,Unfavorable
+CALL3001457,REP005,Ethan Hunt,Northeast,1800000098,2025-10-01,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001458,REP004,Diana Prince,Midwest,1800000107,2025-01-14,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001459,REP003,Charlie Vance,South,1800000087,2025-09-27,Email Follow-up,Co-pay Assistance Program,High Interest
+CALL3001460,REP001,Alice Carter,East,1800000089,2025-01-15,Virtual Video,Co-pay Assistance Program,Neutral
+CALL3001461,REP003,Charlie Vance,South,1800000142,2025-02-22,In-Person,Efficacy Profile,Busy - Left Materials
+CALL3001462,REP004,Diana Prince,Midwest,1800000168,2025-01-16,Phone Call,Clinical Trials Data,Busy - Left Materials
+CALL3001463,REP004,Diana Prince,Midwest,1800000169,2025-04-06,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001464,REP001,Alice Carter,East,1800000011,2025-10-03,Phone Call,Safety & Tolerability,Unfavorable
+CALL3001465,REP001,Alice Carter,East,1800000235,2025-01-13,Email Follow-up,Safety & Tolerability,Unfavorable
+CALL3001466,REP005,Ethan Hunt,Northeast,1800000230,2025-04-30,Email Follow-up,Market Access & Formulary Update,Favorable
+CALL3001467,REP002,Bob Mendez,West,1800000109,2025-10-27,In-Person,Efficacy Profile,Unfavorable
+CALL3001468,REP005,Ethan Hunt,Northeast,1800000186,2025-09-13,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001469,REP005,Ethan Hunt,Northeast,1800000026,2025-07-16,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001470,REP001,Alice Carter,East,1800000111,2025-06-19,In-Person,Clinical Trials Data,Unfavorable
+CALL3001471,REP001,Alice Carter,East,1800000008,2025-05-19,Email Follow-up,Safety & Tolerability,High Interest
+CALL3001472,REP003,Charlie Vance,South,1800000051,2025-06-19,Email Follow-up,Efficacy Profile,High Interest
+CALL3001473,REP005,Ethan Hunt,Northeast,1800000054,2025-06-19,Email Follow-up,Efficacy Profile,Busy - Left Materials
+CALL3001474,REP001,Alice Carter,East,1800000231,2025-04-06,In-Person,Efficacy Profile,Neutral
+CALL3001475,REP003,Charlie Vance,South,1800000241,2025-12-05,Phone Call,Efficacy Profile,High Interest
+CALL3001476,REP005,Ethan Hunt,Northeast,1800000116,2025-09-28,In-Person,Efficacy Profile,Neutral
+CALL3001477,REP002,Bob Mendez,West,1800000151,2025-11-07,Phone Call,Safety & Tolerability,Favorable
+CALL3001478,REP002,Bob Mendez,West,1800000091,2025-06-27,Phone Call,Safety & Tolerability,Favorable
+CALL3001479,REP003,Charlie Vance,South,1800000156,2025-03-29,Virtual Video,Safety & Tolerability,High Interest
+CALL3001480,REP002,Bob Mendez,West,1800000174,2025-06-04,Virtual Video,Efficacy Profile,Favorable
+CALL3001481,REP003,Charlie Vance,South,1800000132,2025-12-03,Virtual Video,Safety & Tolerability,High Interest
+CALL3001482,REP002,Bob Mendez,West,1800000103,2025-11-19,In-Person,Safety & Tolerability,Favorable
+CALL3001483,REP002,Bob Mendez,West,1800000126,2025-08-05,In-Person,Co-pay Assistance Program,Busy - Left Materials
+CALL3001484,REP003,Charlie Vance,South,1800000077,2025-09-12,Virtual Video,Efficacy Profile,Unfavorable
+CALL3001485,REP005,Ethan Hunt,Northeast,1800000027,2025-03-03,In-Person,Clinical Trials Data,Unfavorable
+CALL3001486,REP001,Alice Carter,East,1800000207,2025-10-13,Email Follow-up,Clinical Trials Data,Busy - Left Materials
+CALL3001487,REP004,Diana Prince,Midwest,1800000136,2025-06-06,Phone Call,Safety & Tolerability,Favorable
+CALL3001488,REP003,Charlie Vance,South,1800000164,2025-11-30,Virtual Video,Safety & Tolerability,Neutral
+CALL3001489,REP004,Diana Prince,Midwest,1800000132,2025-06-02,Virtual Video,Clinical Trials Data,High Interest
+CALL3001490,REP001,Alice Carter,East,1800000174,2025-02-07,In-Person,Safety & Tolerability,Favorable
+CALL3001491,REP004,Diana Prince,Midwest,1800000223,2025-02-12,Virtual Video,Clinical Trials Data,Favorable
+CALL3001492,REP004,Diana Prince,Midwest,1800000181,2025-06-17,In-Person,Clinical Trials Data,High Interest
+CALL3001493,REP003,Charlie Vance,South,1800000016,2025-04-23,Virtual Video,Co-pay Assistance Program,High Interest
+CALL3001494,REP001,Alice Carter,East,1800000102,2025-05-01,Email Follow-up,Market Access & Formulary Update,Neutral
+CALL3001495,REP003,Charlie Vance,South,1800000175,2025-08-19,Virtual Video,Clinical Trials Data,Favorable
+CALL3001496,REP003,Charlie Vance,South,1800000228,2025-05-04,In-Person,Safety & Tolerability,Neutral
+CALL3001497,REP002,Bob Mendez,West,1800000207,2025-08-10,In-Person,Safety & Tolerability,Busy - Left Materials
+CALL3001498,REP002,Bob Mendez,West,1800000048,2025-03-07,Email Follow-up,Market Access & Formulary Update,Unfavorable
+CALL3001499,REP002,Bob Mendez,West,1800000242,2025-08-19,Virtual Video,Market Access & Formulary Update,Busy - Left Materials
