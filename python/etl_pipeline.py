@@ -1,10 +1,11 @@
 import pandas as pd
 
-# -----------------------------
-# Load Dataset
-# -----------------------------
-input_file = "healthcare_sales_100k.csv"
-output_file = "healthcare_sales_cleaned.csv"
+from pathlib import Path
+
+# Resolve paths relative to script directory
+script_dir = Path(__file__).resolve().parent
+input_file = script_dir / "healthcare_sales_100k.csv"
+output_file = script_dir / "healthcare_sales_cleaned.csv"
 
 df = pd.read_csv(input_file)
 

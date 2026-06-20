@@ -38,8 +38,14 @@ for sale_id in range(1, NUM_ROWS + 1):
         "Customer_Type": random.choice(customer_types)
     })
 
+from pathlib import Path
+
+# Resolve path relative to script directory
+script_dir = Path(__file__).resolve().parent
+output_csv_path = script_dir / "healthcare_sales_100k.csv"
+
 df = pd.DataFrame(data)
 
-df.to_csv("healthcare_sales_100k.csv", index=False)
+df.to_csv(output_csv_path, index=False)
 
 print("Generated 100,000 records successfully!")

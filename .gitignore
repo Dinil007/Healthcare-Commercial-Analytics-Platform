@@ -124,3 +124,7 @@ Thumbs.db
 **/~*
 *~
 *.twbr
+
+# Large generated data files
+python/healthcare_sales_5M.csv
+python/healthcare_sales_feature_engineered.csv
