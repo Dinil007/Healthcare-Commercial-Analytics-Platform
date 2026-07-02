@@ -6,33 +6,34 @@ The objective of this analysis is to compare multiple machine learning models us
 
 ## Models Evaluated
 
-- **Linear Regression**: A baseline regression model mapping feature coefficients to revenue.
-- **Random Forest Regressor**: An ensemble decision-tree method.
-- **XGBoost Regressor**: An optimized gradient-boosting model.
-- **Random Forest Classifier**: Used to classify doctor churn probability.
+- Linear Regression
+- Random Forest Regressor
+- XGBoost Regressor
 
-## Performance Comparison (Regression Models)
+## Performance Comparison
 
-The following table summarizes the performance metrics of the regression models predicting `Revenue` based on the features: `Quantity_Sold`, `Unit_Price`, `Discount` (and `Profit` where applicable).
+| Model | Advantages | Limitations |
+|--------|------------|-------------|
+| Linear Regression | Simple, fast, easy to interpret | May not capture complex relationships |
+| Random Forest | Handles non-linear data well, robust to outliers | Can be slower and less interpretable |
+| XGBoost | High predictive accuracy and efficient boosting | Requires parameter tuning and more computational resources |
 
-| Model | MAE | R-squared ($R^2$) | Advantages | Limitations |
-| :--- | :--- | :--- | :--- | :--- |
-| **Linear Regression** | 115,310.86 | 0.9274 | Simple, fast, highly interpretable. | Assumes linear relationships; higher prediction error. |
-| **Random Forest Regressor** | 2,724.25 | 0.9999 | Handles non-linear data well, extremely low error. | Slower to train; model size can be large. |
-| **XGBoost Regressor** | 4,123.82 | 0.9999 | High predictive accuracy, very fast execution. | Requires tuning; complex decision trees. |
+## Evaluation Metrics
 
-## Doctor Churn Prediction (Classification Model)
+The following metrics should be used for comparison:
 
-To proactively retain prescribers, we built a classifier to identify doctors likely to stop prescribing (Churn = 1) using `Quantity_Sold`, `Unit_Price`, `Discount`, and `Revenue`.
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R-squared (R²)
 
-- **Model Type**: Random Forest Classifier
-- **Accuracy**: 100% (Accuracy: 1.0, F1-Score: 1.0)
-- **Confusion Matrix**:
-  - True Negative (Active): 18,086
-  - True Positive (Churned): 1,914
-  - False Positives/Negatives: 0
-  - *Note: The perfect accuracy is due to the deterministic rule applied for synthetic label generation (`Quantity_Sold < 50`).*
+Example format:
+
+| Model | MAE | RMSE | R² |
+|--------|-----|------|----|
+| Linear Regression | Fill from results | Fill from results | Fill from results |
+| Random Forest | Fill from results | Fill from results | Fill from results |
+| XGBoost | Fill from results | Fill from results | Fill from results |
 
 ## Conclusion
 
-The **Random Forest Regressor** achieved the lowest Mean Absolute Error (MAE: 2,724.25) and the highest $R^2$ score (0.9999) among the regression models, making it the most accurate model for predicting sales revenue. For production deployment, **XGBoost** is a strong alternative due to its faster inference time and comparable accuracy.
+Based on the evaluation metrics, the model with the lowest prediction error and highest R² score should be selected as the preferred model for healthcare sales forecasting. Ensemble methods such as Random Forest and XGBoost often outperform simple linear models on complex datasets.

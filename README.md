@@ -124,6 +124,38 @@ Business Insights & Forecasting
 
 ---
 
+# 📸 Dashboard Gallery
+
+## Power BI Executive Dashboard
+
+![Power BI Executive Dashboard](Screenshots/executive_dashboard.png)
+
+---
+
+## Power BI Analytics Dashboard
+
+![Power BI Dashboard](Screenshots/powerbi_dashboard.png)
+
+---
+
+## Doctor Analytics Dashboard
+
+![Doctor Analytics](Screenshots/doctor_analytics.png)
+
+---
+
+## Regional Performance Dashboard
+
+![Regional Performance](Screenshots/regional_performance.png)
+
+---
+
+## Tableau Executive Dashboard
+
+![Tableau Dashboard](Screenshots/tableau_dashboard.png)
+
+---
+
 # 🤖 Machine Learning Models
 
 | Model                   | Purpose                                    |
@@ -141,6 +173,32 @@ Business Insights & Forecasting
 * Descriptive Statistics
 * Feature Importance
 * Outlier Detection
+
+---
+
+# 🤖 Machine Learning & Statistical Analysis
+
+## Correlation Matrix
+
+![Correlation Matrix](Screenshots/correlation_matrix.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](Screenshots/feature_importance.png)
+
+---
+
+## Actual vs Predicted Revenue
+
+![Actual vs Predicted Revenue](Screenshots/actual_vs_predicted.png)
+
+---
+
+## Revenue Outlier Detection
+
+![Revenue Outlier Detection](Screenshots/revenue_outliers.png)
 
 ---
 
@@ -171,7 +229,7 @@ Healthcare-Commercial-Analytics-Platform/
 ├── tableau/
 ├── sas/
 ├── docs/
-├── screenshots/
+├── Screenshots/
 └── README.md
 ```
 
